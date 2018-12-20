@@ -28,4 +28,4 @@ No license is granted to the Wire trademark and its associated logos, all of whi
 
 ### Execution
 
-Run `yarn merge:<project>` in order to copy the config and resources for the `<project>`.
+Run `yarn merge:<project>` in order to copy the config and resources for the `<project>`. Only possible option for `<project>` is `wire-webapp` currently.
