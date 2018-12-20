@@ -5,12 +5,12 @@
     "fs-extra": "7.0.1"
   },
   "scripts": {
-    "merge:webapp": "cd wire-webapp && node ./bin/merge.js"
+    "merge:wire-webapp": "cd wire-webapp && node ./bin/merge.js"
   },
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/wireapp/wire-webapp.git"
+    "url": "https://github.com/wireapp/wire-web-config-default.git"
   },
   "version": "0.0.1"
 }
