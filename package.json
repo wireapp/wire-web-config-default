@@ -1,13 +1,8 @@
 {
   "name": "wire-web-config-default",
   "license": "GPL-3.0",
-  "dependencies": {
-    "fs-extra": "7.0.1"
-  },
-  "scripts": {
-    "merge:wire-account": "cd wire-account && node ./bin/merge.js",
-    "merge:wire-webapp": "cd wire-webapp && node ./bin/merge.js"
-  },
+  "dependencies": {},
+  "scripts": {},
   "private": true,
   "repository": {
     "type": "git",
