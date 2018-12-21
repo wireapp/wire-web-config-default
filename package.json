@@ -1,7 +1,5 @@
 {
-  "dependencies": {
-    "fs-extra": "7.0.1"
-  },
+  "dependencies": {},
   "license": "GPL-3.0",
   "name": "wire-web-config-default",
   "private": true,
@@ -9,9 +7,6 @@
     "type": "git",
     "url": "https://github.com/wireapp/wire-web-config-default.git"
   },
-  "scripts": {
-    "merge:wire-account": "cd wire-account && node ./bin/merge.js",
-    "merge:wire-webapp": "cd wire-webapp && node ./bin/merge.js"
-  },
+  "scripts": {},
   "version": "0.0.1"
 }
