@@ -5,6 +5,7 @@
     "fs-extra": "7.0.1"
   },
   "scripts": {
+    "merge:wire-account": "cd wire-account && node ./bin/merge.js",
     "merge:wire-webapp": "cd wire-webapp && node ./bin/merge.js"
   },
   "private": true,
