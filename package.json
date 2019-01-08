@@ -1,12 +1,12 @@
 {
-  "name": "wire-web-config-default",
-  "license": "GPL-3.0",
   "dependencies": {},
-  "scripts": {},
+  "license": "GPL-3.0",
+  "name": "wire-web-config-default",
   "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/wireapp/wire-web-config-default.git"
   },
+  "scripts": {},
   "version": "0.0.1"
 }
