@@ -1,7 +1,5 @@
 # Wire™
 
-[![We are hiring](https://github.com/wireapp/wire/blob/master/assets/header-small.png?raw=true)](https://wire.softgarden.io/job/616102)
-
 This repository is part of the source code of Wire. You can find more information at [wire.com](https://wire.com) or by contacting opensource@wire.com.
 
 You can find the published source code at [github.com/wireapp/wire](https://github.com/wireapp/wire).
@@ -16,16 +14,19 @@ For clarity, if you compile the open source software that we make available from
 
 No license is granted to the Wire trademark and its associated logos, all of which will continue to be owned exclusively by Wire Swiss GmbH. Any use of the Wire trademark and/or its associated logos is expressly prohibited without the express prior written consent of Wire Swiss GmbH.
 
-# How to build
+# Usage
 
-## Build
+## Creating a company repository
+`git clone https://github.com/wireapp/wire-web-config-<company>.git`
+`git remote add upstream https://github.com/wireapp/wire-web-config-default.git`
+`git checkout -b origin/master`
+`git fetch upstream`
+`git merge upstream/master`
+`git push origin`
 
-### Installation
-
-1.  Install [Node.js](https://nodejs.org/)
-2.  Install [Yarn](https://yarnpkg.com): `npm install -g yarn`
-3.  Run `yarn`
-
-### Execution
-
-Run `yarn merge:<project>` in order to copy the config and resources for the `<project>`. Only possible option for `<project>` is `wire-webapp` currently.
+## Update company repository
+First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-<company>.git`
+`git checkout origin/master`
+`git fetch upstream`
+`git merge upstream/master`
+`git push origin`
