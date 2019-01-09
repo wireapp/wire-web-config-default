@@ -13,5 +13,5 @@
     "release:patch": "npm version patch && git push --follow-tags",
     "sync": "git checkout origin/master && git fetch upstream && git merge upstream/master && git push origin --follow-tags"
   },
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
