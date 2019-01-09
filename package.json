@@ -8,9 +8,9 @@
     "url": "https://github.com/wireapp/wire-web-config-default.git"
   },
   "scripts": {
-    "release:major": "npm version major",
-    "release:minor": "npm version minor",
-    "release:patch": "npm version patch"
+    "release:major": "npm version major && git push --follow-tags",
+    "release:minor": "npm version minor && git push --follow-tags",
+    "release:patch": "npm version patch && git push --follow-tags"
   },
   "version": "0.1.0"
 }
