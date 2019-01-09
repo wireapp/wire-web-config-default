@@ -22,11 +22,11 @@ No license is granted to the Wire trademark and its associated logos, all of whi
 - `git checkout -b origin/master`
 - `git fetch upstream`
 - `git merge upstream/master`
-- `git push origin`
+- `git push origin --follow-tags`
 
 ## Update company repository
 -  First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-<company>.git`
 - `git checkout origin/master`
 - `git fetch upstream`
 - `git merge upstream/master`
-- `git push origin`
+- `git push origin --follow-tags`
