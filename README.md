@@ -20,13 +20,8 @@ No license is granted to the Wire trademark and its associated logos, all of whi
 - `git clone https://github.com/wireapp/wire-web-config-<company>.git`
 - `git remote add upstream https://github.com/wireapp/wire-web-config-default.git`
 - `git checkout -b origin/master`
-- `git fetch upstream`
-- `git merge upstream/master`
-- `git push origin --follow-tags`
+- `yarn sync`
 
 ## Update company repository
 -  First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-<company>.git`
-- `git checkout origin/master`
-- `git fetch upstream`
-- `git merge upstream/master`
-- `git push origin --follow-tags`
+- `yarn sync`
