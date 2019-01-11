@@ -17,7 +17,7 @@
     "loading": "Please wait…"
   },
   "forgot": {
-    "title": "Change Password",
+    "title": "Changee Password",
     "successTitle": "Check your email",
     "successDescription": "We sent you a link to reset your password. It is valid for 1 hour.",
     "emailPlaceholder": "Email",
