@@ -23,5 +23,5 @@ No license is granted to the Wire trademark and its associated logos, all of whi
 - `yarn sync`
 
 ## Update company repository
--  First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-<company>.git`
+-  First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-default.git`
 - `yarn sync`
