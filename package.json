@@ -1,5 +1,7 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "adm-zip": "0.4.13"
+  },
   "license": "GPL-3.0",
   "name": "wire-web-config-default",
   "private": true,
@@ -12,7 +14,9 @@
     "release:minor": "npm version minor",
     "release:patch": "npm version patch",
     "postversion": "git push --follow-tags",
-    "sync": "git checkout master && git fetch upstream && git merge upstream/master && git push origin --follow-tags"
+    "sync": "git checkout master && git fetch upstream && git merge upstream/master && git push origin --follow-tags",
+    "translate:download:wire-account": "node wire-account/bin/translations_download.js",
+    "translate:upload:wire-account": "node wire-account/bin/translations_upload.js"
   },
   "version": "0.4.1"
 }
