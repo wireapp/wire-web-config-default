@@ -17,5 +17,5 @@
     "sync": "git checkout master && git fetch upstream && git merge upstream/master && git push origin --follow-tags",
     "translate:download:wire-webapp": "node wire-webapp/bin/translationDownload.js"
   },
-  "version": "0.4.1"
+  "version": "0.5.0"
 }
