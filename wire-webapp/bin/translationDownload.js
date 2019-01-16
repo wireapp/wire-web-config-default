@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const AdmZip = require('adm-zip');
 const crowdinConfig = require('../keys/crowdinConfig');
-const zipFolder = path.resolve(__dirname, 'wire-account.zip');
+const zipFolder = path.resolve(__dirname, 'wire-webapp.zip');
 const translationFolder = crowdinConfig.destinationPath;
 
 const URL = {
@@ -34,9 +34,13 @@ function download() {
       fs.appendFileSync(zipFolder, data);
     });
     response.on('end', function() {
-       var zip = new AdmZip(zipFolder);
-       zip.extractAllTo(translationFolder);
-       fs.unlinkSync(zipFolder);
+      var zip = new AdmZip(zipFolder);
+      zip.getEntries().forEach(function(entry) {
+        if (!entry.isDirectory) {
+          zip.extractEntryTo(entry, translationFolder, false, true);
+        }
+      });
+      fs.unlinkSync(zipFolder);
     });
 
     response.on('error', function(error) {

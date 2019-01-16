@@ -549,6 +549,7 @@
   "preferencesOptionsContactsMacos": "Aus Kontakte importieren",
   "preferencesOptionsContactsDetail": "Wir verwenden deine Daten, um Kontakte für dich zu erstellen. Wir anonymisieren alle Informationen und teilen sie mit niemand anderem.",
   "preferencesOptionsPopular": "Auf allgemeinen Wunsch",
+  "preferencesOptionsUseDarkMode": "Dark theme",
   "preferencesOptionsEmojiReplaceCheckbox": "Schrift-Emoticons mit Emojis ersetzen",
   "preferencesOptionsEmojiReplaceDetail": ":-) → [icon]",
   "preferencesOptionsPreviewsSendCheckbox": "Vorschau beim Senden von Links erstellen",

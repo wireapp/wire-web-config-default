@@ -549,6 +549,7 @@
   "preferencesOptionsContactsMacos": "Impordi kontaktidest",
   "preferencesOptionsContactsDetail": "Me kasutame su kontakte, et ühendada sind teistega. Me muudame kogu info anonüümseks ja ei jaga seda kellegi teisega.",
   "preferencesOptionsPopular": "Publiku nõudmisel",
+  "preferencesOptionsUseDarkMode": "Dark theme",
   "preferencesOptionsEmojiReplaceCheckbox": "Asenda kirjutatud emotikonid emojidega",
   "preferencesOptionsEmojiReplaceDetail": ":-) → [icon]",
   "preferencesOptionsPreviewsSendCheckbox": "Loo eelvaateid saadetavatele linkidele",
