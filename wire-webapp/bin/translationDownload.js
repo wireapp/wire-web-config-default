@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const AdmZip = require('adm-zip');
 const crowdinConfig = require('../keys/crowdinConfig');
-const zipFolder = path.resolve(__dirname, 'wire-webapp.zip');
+const zipPath = path.resolve(__dirname, 'wire-webapp.zip');
 const translationFolder = crowdinConfig.destinationPath;
 
 const URL = {
@@ -31,16 +31,16 @@ function download() {
       throw new Error('Failed to download, status code: ' + response.statusCode);
     }
     response.on('data', function (data) {
-      fs.appendFileSync(zipFolder, data);
+      fs.appendFileSync(zipPath, data);
     });
     response.on('end', function() {
-      var zip = new AdmZip(zipFolder);
+      var zip = new AdmZip(zipPath);
       zip.getEntries().forEach(function(entry) {
         if (!entry.isDirectory) {
           zip.extractEntryTo(entry, translationFolder, false, true);
         }
       });
-      fs.unlinkSync(zipFolder);
+      fs.unlinkSync(zipPath);
     });
 
     response.on('error', function(error) {
