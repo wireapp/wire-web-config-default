@@ -737,5 +737,6 @@
   "replyQuoteShowMore": "さらに表示",
   "replyQuoteShowLess": "一部のみ表示",
   "replyQuoteTimeStampDate": "{{date}} のオリジナルメッセージ",
-  "replyQuoteTimeStampTime": "{{time}} のオリジナルメッセージ"
+  "replyQuoteTimeStampTime": "{{time}} のオリジナルメッセージ",
+  "wire_for_web": "Wire for Web"
 }

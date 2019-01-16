@@ -737,5 +737,6 @@
   "replyQuoteShowMore": "Розгорнути",
   "replyQuoteShowLess": "Згорнути",
   "replyQuoteTimeStampDate": "Оригінальне повідомлення від {{date}}",
-  "replyQuoteTimeStampTime": "Оригінальне повідомлення від {{time}}"
+  "replyQuoteTimeStampTime": "Оригінальне повідомлення від {{time}}",
+  "wire_for_web": "Wire for Web"
 }

@@ -737,5 +737,6 @@
   "replyQuoteShowMore": "Prikaži više",
   "replyQuoteShowLess": "Prikaži manje",
   "replyQuoteTimeStampDate": "Originalna poruka od {{date}}",
-  "replyQuoteTimeStampTime": "Originalna poruka od {{time}}"
+  "replyQuoteTimeStampTime": "Originalna poruka od {{time}}",
+  "wire_for_web": "Wire for Web"
 }

@@ -737,5 +737,6 @@
   "replyQuoteShowMore": "Развернуть",
   "replyQuoteShowLess": "Свернуть",
   "replyQuoteTimeStampDate": "Исходное сообщение от {{date}}",
-  "replyQuoteTimeStampTime": "Исходное сообщение от {{time}}"
+  "replyQuoteTimeStampTime": "Исходное сообщение от {{time}}",
+  "wire_for_web": "Wire for Web"
 }

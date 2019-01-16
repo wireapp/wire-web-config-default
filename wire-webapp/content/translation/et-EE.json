@@ -737,5 +737,6 @@
   "replyQuoteShowMore": "Kuva rohkem",
   "replyQuoteShowLess": "Kuva vähem",
   "replyQuoteTimeStampDate": "Originaalsõnum ajast {{date}}",
-  "replyQuoteTimeStampTime": "Originaalsõnum kellast {{time}}"
+  "replyQuoteTimeStampTime": "Originaalsõnum kellast {{time}}",
+  "wire_for_web": "Wire for Web"
 }

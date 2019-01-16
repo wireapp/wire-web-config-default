@@ -737,5 +737,6 @@
   "replyQuoteShowMore": "Mehr anzeigen",
   "replyQuoteShowLess": "Weniger anzeigen",
   "replyQuoteTimeStampDate": "Ursprüngliche Nachricht vom {{date}}",
-  "replyQuoteTimeStampTime": "Ursprüngliche Nachricht von {{time}}"
+  "replyQuoteTimeStampTime": "Ursprüngliche Nachricht von {{time}}",
+  "wire_for_web": "Wire for Web"
 }
