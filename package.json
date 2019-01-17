@@ -18,5 +18,5 @@
     "translate:download:wire-account": "node wire-account/bin/translationDownload.js",
     "translate:download:wire-webapp": "node wire-webapp/bin/translationDownload.js"
   },
-  "version": "0.6.1"
+  "version": "0.6.2"
 }
