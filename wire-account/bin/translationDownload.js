@@ -22,8 +22,7 @@ const path = require('path');
 const fs = require('fs');
 const AdmZip = require('adm-zip');
 const crowdinConfig = require('../keys/crowdinConfig');
-const zipPath = path.resolve(__dirname, 'wire-webapp.zip');
-const translationFolder = crowdinConfig.destinationPath;
+const zipPath = path.resolve(__dirname, 'wire-account.zip');
 
 const URL = {
   EXPORT: `https://api.crowdin.com/api/project/${crowdinConfig.projectIdentifier}/export?key=${crowdinConfig.projectKey}&json`,
@@ -56,7 +55,7 @@ function download() {
       var zip = new AdmZip(zipPath);
       zip.getEntries().forEach(function(entry) {
         if (!entry.isDirectory) {
-          zip.extractEntryTo(entry, translationFolder, false, true);
+          zip.extractEntryTo(entry, crowdinConfig.destinationPath, false, true);
         }
       });
       fs.unlinkSync(zipPath);
