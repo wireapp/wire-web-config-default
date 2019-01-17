@@ -1,16 +1,16 @@
 {
   "delete": {
     "title": "Delete Account",
-    "confirmation": "All your data on Wire is now erased.",
+    "confirmation": "All your data on {{company}} is now erased.",
     "button": "Delete Account",
-    "surveyText": "Thanks for using Wire. If you’d like, you can {{- link}} This will take no longer than a minute.",
+    "surveyText": "Thanks for using {{company}}. If you’d like, you can {{- link}} This will take no longer than a minute.",
     "surveyLink": "share your thoughts about it.",
     "errorTitle": "Something went wrong",
     "errorDescription": "Please try again to delete your account.",
     "greeting": "Hi there,",
-    "description": "We’ve received a request to delete your Wire account. Click on the button below to proceed. It is valid for 10 minutes.",
+    "description": "We’ve received a request to delete your {{company}} account. Click on the button below to proceed. It is valid for 10 minutes.",
     "resetText": "If you did not ask for this, you should {{- link}}",
-    "resetLink": "reset your Wire password.",
+    "resetLink": "reset your {{company}} password.",
     "headline": "Account deleted"
   },
   "general": {
@@ -43,13 +43,13 @@
     "titlePhone": "Verify Phone",
     "title": "Verifying",
     "successBotTitle": "Thank you for registering",
-    "successBotDescription": "Please note that upon successful verification of your e-mail, your Wire service provider account is still subject to approval through our staff, which usually happens within 24 hours.",
+    "successBotDescription": "Please note that upon successful verification of your e-mail, your {{company}} service provider account is still subject to approval through our staff, which usually happens within 24 hours.",
     "successBotDescriptionEmail": "You will be informed of the approval via a separate e-mail.",
     "errorTitle": "Something went wrong.",
     "error404Description": "Please try to create your account again.",
     "error500Description": "We are investigating the issue, please check back shortly.",
     "successEmailTitle": "Email verified",
-    "successEmailAppDescription": "Install the app to start using Wire.",
+    "successEmailAppDescription": "Install the app to start using {{company}}.",
     "successPhoneDescription": "Phone verification in progress"
   },
   "header": {
@@ -60,10 +60,10 @@
     "title": "The most secure collaboration platform"
   },
   "open": {
-    "description": "To sign in and start using Wire, launch the application.",
-    "downloadButton": "Get Wire",
+    "description": "To sign in and start using {{company}}, launch the application.",
+    "downloadButton": "Get {{company}}",
     "openMac": "OPEN macOS APP",
     "openWeb": "Open in Web",
-    "openWire": "Open Wire"
+    "openWire": "Open {{company}}"
   }
 }

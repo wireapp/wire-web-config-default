@@ -3,14 +3,14 @@
     "title": "Benutzerkonto löschen",
     "confirmation": "Wir haben deine persönlichen Daten entfernt.",
     "button": "Benutzerkonto löschen",
-    "surveyText": "Danke für die Nutzung von Wire. Du hilfst uns, indem du {{- link}} Dies dauert nicht länger als eine Minute.",
+    "surveyText": "Danke für die Nutzung von {{company}}. Du hilfst uns, indem du {{- link}} Dies dauert nicht länger als eine Minute.",
     "surveyLink": "uns Verbesserungsvorschläge gibst.",
     "errorTitle": "Ein Fehler ist aufgetreten",
     "errorDescription": "Bitte versuche erneut, dein Benutzerkonto zu löschen.",
     "greeting": "Hi,",
-    "description": "Wir haben eine Anfrage zur Löschung deines Wire-Benutzerkontos erhalten. Klicke zum Fortfahren unten auf den Button. Die Anfrage ist für 10 Minuten gültig.",
+    "description": "Wir haben eine Anfrage zur Löschung deines {{company}}-Benutzerkontos erhalten. Klicke zum Fortfahren unten auf den Button. Die Anfrage ist für 10 Minuten gültig.",
     "resetText": "Falls du dies nicht selbst warst, solltest du {{- link}}",
-    "resetLink": "dein Wire-Passwort zurücksetzen.",
+    "resetLink": "dein {{company}}-Passwort zurücksetzen.",
     "headline": "Benutzerkonto gelöscht"
   },
   "general": {
@@ -49,7 +49,7 @@
     "error404Description": "Bitte versuche erneut, ein Konto zu erstellen.",
     "error500Description": "Wir untersuchen das Problem, bitte versuche es in Kürze nocheinmal.",
     "successEmailTitle": "Email verifiziert",
-    "successEmailAppDescription": "Installiere die App, um Wire zu benutzen.",
+    "successEmailAppDescription": "Installiere die App, um {{company}} zu benutzen.",
     "successPhoneDescription": "Telefonnummer wird bestätigt"
   },
   "header": {
@@ -60,10 +60,10 @@
     "title": "Die sicherste Art, zusammen zu arbeiten"
   },
   "open": {
-    "description": "Starte die App, um dich anzumelden und Wire zu benutzen.",
-    "downloadButton": "Hol dir Wire",
+    "description": "Starte die App, um dich anzumelden und {{company}} zu benutzen.",
+    "downloadButton": "Hol dir {{company}}",
     "openMac": "macOS APP HERUNTERLADEN",
     "openWeb": "Öffne im Browser",
-    "openWire": "Öffne Wire"
+    "openWire": "Öffne {{company}}"
   }
 }
