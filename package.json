@@ -19,5 +19,5 @@
     "translate:download:wire-team-settings": "node wire-team-settings/bin/translationDownload.js",
     "translate:download:wire-webapp": "node wire-webapp/bin/translationDownload.js"
   },
-  "version": "0.8.0"
+  "version": "0.8.1"
 }
