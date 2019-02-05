@@ -13,11 +13,12 @@
     "release:major": "npm version major",
     "release:minor": "npm version minor",
     "release:patch": "npm version patch",
+    "release:staging": "npm version prerelease --preid=staging",
     "postversion": "git push --follow-tags",
     "sync": "git checkout master && git fetch upstream && git merge upstream/master && git push origin --follow-tags",
     "translate:download:wire-account": "node wire-account/bin/translationDownload.js",
     "translate:download:wire-team-settings": "node wire-team-settings/bin/translationDownload.js",
     "translate:download:wire-webapp": "node wire-webapp/bin/translationDownload.js"
   },
-  "version": "0.8.1"
+  "version": "0.8.2-staging.0"
 }
