@@ -1,0 +1,48 @@
+{
+  "internal": {
+    "linux": {
+      "nameShort": "wire-desktop-internal"
+    },
+    "macOS": {
+      "bundleId": "com.wearezeta.zclient.mac.internal"
+    },
+    "name": "WireInternal",
+    "windows": {
+      "installerIconUrl": "https://wire-app.wire.com/win/internal/wire.internal.ico",
+      "loadingGif": "img/wire.internal.256.png",
+      "updateUrl": "https://wire-app.wire.com/win/internal/"
+    }
+  },
+  "prod": {
+    "adminUrl": "https://teams.wire.com",
+    "appBase": "https://app.wire.com",
+    "copyright": "© Wire Swiss GmbH",
+    "customProtocolName": "wire",
+    "description": "The most secure collaboration platform.",
+    "legalUrl": "https://wire.com/legal/",
+    "licensesUrl": "https://wire.com/legal/licenses/",
+    "linux": {
+      "categories": "Network;InstantMessaging;Chat;VideoConference",
+      "keywords": "chat;encrypt;e2e;messenger;videocall",
+      "nameShort": "wire-desktop"
+    },
+    "macOS": {
+      "bundleId": "com.wearezeta.zclient.mac",
+      "category": "public.app-category.social-networking",
+      "developerId": "EDF3JCE8BC",
+      "developerName": "Wire Swiss GmbH",
+      "icon": "resources/macos/wire.icns"
+    },
+    "maximumAccounts": 3,
+    "name": "Wire",
+    "nameShort": "Wire",
+    "privacyUrl": "https://wire.com/privacy/",
+    "supportUrl": "https://support.wire.com",
+    "websiteUrl": "https://wire.com",
+    "windows": {
+      "installerIconUrl": "https://wire-app.wire.com/win/prod/wire.ico",
+      "loadingGif": "img/wire.256.png",
+      "updateUrl": "https://wire-app.wire.com/win/prod/"
+    }
+  }
+}
