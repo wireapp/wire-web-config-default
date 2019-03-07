@@ -609,6 +609,7 @@
   "searchTeamMembers": "Team members",
   "searchTopPeople": "Top people",
   "searchTrySearch": "Find people by\nname or username",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "You have no contacts on Wire.\nTry finding people by\nname or username.",
   "searchMemberInvite": "Invite people to join the team",
   "searchOthers": "Connect",

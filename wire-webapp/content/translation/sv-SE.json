@@ -609,6 +609,7 @@
   "searchTeamMembers": "Teammedlemmar",
   "searchTopPeople": "Topp-personer",
   "searchTrySearch": "Hitta personer efter\nnamn eller användarnamn",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "Du har inga kontakter på Wire.\nFörsök hitta personer efter\nnamn eller användarnamn.",
   "searchMemberInvite": "Bjud in personer att gå med i teamet",
   "searchOthers": "Anslut",

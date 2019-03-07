@@ -609,6 +609,7 @@
   "searchTeamMembers": "Meeskonnaliikmed",
   "searchTopPeople": "Lemmikinimesed",
   "searchTrySearch": "Leia inimesi\nnime või kasutajanime järgi",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "Sul pole Wire’is ühtegi kontakti.\nProovi inimesi leida\nnime või kasutajanime järgi.",
   "searchMemberInvite": "Kutsu inimesi meeskonnaga liituma",
   "searchOthers": "Ühendu",
