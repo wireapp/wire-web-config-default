@@ -609,6 +609,7 @@
   "searchTeamMembers": "Tiimin jäsenet",
   "searchTopPeople": "Eniten käytetyt kontaktit",
   "searchTrySearch": "Etsi käyttäjiä nimellä tai käyttäjänimellä",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "Sinulla ei ole kontakteja Wiressä. Yritä etsiä muita käyttäjiä nimellä tai käyttäjänimellä.",
   "searchMemberInvite": "Invite people to join the team",
   "searchOthers": "Yhdistä",

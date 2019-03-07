@@ -609,6 +609,7 @@
   "searchTeamMembers": "Чланови тима",
   "searchTopPeople": "Најчешће контактирани",
   "searchTrySearch": "Нађите људе по имену\nили корисничком имену",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "Немате контакте у Вајеру.\nПокушајте да их нађете по\nимену или корисничком имену.",
   "searchMemberInvite": "Invite people to join the team",
   "searchOthers": "Повежи се",

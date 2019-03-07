@@ -609,6 +609,7 @@
   "searchTeamMembers": "Členové týmu",
   "searchTopPeople": "Nejaktivnější kontakty",
   "searchTrySearch": "Vyhledávání osob podle\nvlastního nebo uživatelského jména",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "V aplikaci Wire nemáte žádné kontakty.\nZkuste vyhledat kontakty podle jména nebo\nuživatelského jména.",
   "searchMemberInvite": "Invite people to join the team",
   "searchOthers": "Připojit",

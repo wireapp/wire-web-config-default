@@ -609,6 +609,7 @@
   "searchTeamMembers": "Csapattagok",
   "searchTopPeople": "Top Partnerek",
   "searchTrySearch": "Partnerek keresése\nnév vagy felhasználónév alapján",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "Nincsenek névjegyeid a Wire-ön.\nPróbálj új partnereket keresni, \nnév vagy @felhasználónév alapján.",
   "searchMemberInvite": "Hívj meg másokat a csapatba",
   "searchOthers": "Csatlakozás",

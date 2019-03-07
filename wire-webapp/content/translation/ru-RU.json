@@ -609,6 +609,7 @@
   "searchTeamMembers": "Участники команды",
   "searchTopPeople": "Топ-контакты",
   "searchTrySearch": "Ищите людей по\nимени или нику",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "У вас нет контактов в Wire.\nПопробуйте найти людей\nпо имени или нику.",
   "searchMemberInvite": "Пригласите пользователей в команду",
   "searchOthers": "Связаться",

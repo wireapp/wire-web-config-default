@@ -609,6 +609,7 @@
   "searchTeamMembers": "チームメンバー",
   "searchTopPeople": "トップピープル",
   "searchTrySearch": "名前またはユーザー名で人を見つける",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "ワイヤーに連絡先がありません。名前またはユーザー名で人々 を探してみてください。",
   "searchMemberInvite": "チームに招待する",
   "searchOthers": "つながる",

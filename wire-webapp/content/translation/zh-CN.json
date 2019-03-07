@@ -609,6 +609,7 @@
   "searchTeamMembers": "团队成员",
   "searchTopPeople": "常用联系人",
   "searchTrySearch": "通过昵称或用户名寻找好友",
+  "searchNoMatchesPartner": "There are no conversations that match this.",
   "searchNoContactsOnWire": "您还没有Wire联系人。\n您可以通过昵称和用户名来找好友。",
   "searchMemberInvite": "邀请人加入团队",
   "searchOthers": "好友请求",
