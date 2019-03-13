@@ -23,11 +23,16 @@ const fs = require('fs');
 const AdmZip = require('adm-zip');
 const crowdinConfig = require('../keys/crowdinConfig');
 const zipPath = path.resolve(__dirname, 'wire-team-settings.zip');
+const sortJson = require('sort-json');
 
 const URL = {
-  EXPORT: `https://api.crowdin.com/api/project/${crowdinConfig.projectIdentifier}/export?key=${crowdinConfig.projectKey}&json`,
-  DOWNLOAD: `https://api.crowdin.com/api/project/${crowdinConfig.projectIdentifier}/download/all.zip?key=${crowdinConfig.projectKey}`,
-}
+  DOWNLOAD: `https://api.crowdin.com/api/project/${crowdinConfig.projectIdentifier}/download/all.zip?key=${
+    crowdinConfig.projectKey
+  }`,
+  EXPORT: `https://api.crowdin.com/api/project/${crowdinConfig.projectIdentifier}/export?key=${
+    crowdinConfig.projectKey
+  }&json`
+};
 
 function fetchUpdates() {
   https.get(URL.EXPORT, function(response) {
@@ -40,7 +45,7 @@ function fetchUpdates() {
     response.on('error', function(error) {
       throw new Error(error);
     });
-  })
+  });
 }
 
 function download() {
@@ -48,7 +53,7 @@ function download() {
     if (response.statusCode < 200 || response.statusCode > 299) {
       throw new Error('Failed to download, status code: ' + response.statusCode);
     }
-    response.on('data', function (data) {
+    response.on('data', function(data) {
       fs.appendFileSync(zipPath, data);
     });
     response.on('end', function() {
@@ -59,6 +64,7 @@ function download() {
         }
       });
       fs.unlinkSync(zipPath);
+      sortTranslationJson();
     });
 
     response.on('error', function(error) {
@@ -67,4 +73,11 @@ function download() {
   });
 }
 
-fetchUpdates();
+function sortTranslationJson() {
+  fs.readdirSync(crowdinConfig.destinationPath).forEach(filename =>
+    sortJson.overwrite(path.join(crowdinConfig.destinationPath, filename))
+  );
+}
+
+// fetchUpdates();
+sortTranslationJson();

@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "adm-zip": "0.4.13"
+    "adm-zip": "0.4.13",
+    "sort-json": "2.0.0"
   },
   "license": "GPL-3.0",
   "name": "wire-web-config-default",
