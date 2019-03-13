@@ -1,56 +1,31 @@
 {
   "delete": {
-    "title": "Delete Account",
-    "confirmation": "All your data on {{company}} is now erased.",
     "button": "Delete Account",
-    "surveyText": "Thanks for using {{company}}. If you’d like, you can {{- link}} This will take no longer than a minute.",
-    "surveyLink": "share your thoughts about it.",
-    "errorTitle": "Something went wrong",
-    "errorDescription": "Please try again to delete your account.",
-    "greeting": "Hi there,",
+    "confirmation": "All your data on {{company}} is now erased.",
     "description": "We’ve received a request to delete your {{company}} account. Click on the button below to proceed. It is valid for 10 minutes.",
-    "resetText": "If you did not ask for this, you should {{- link}}",
+    "errorDescription": "Please try again to delete your account.",
+    "errorTitle": "Something went wrong",
+    "greeting": "Hi there,",
+    "headline": "Account deleted",
     "resetLink": "reset your {{company}} password.",
-    "headline": "Account deleted"
+    "resetText": "If you did not ask for this, you should {{- link}}",
+    "surveyLink": "share your thoughts about it.",
+    "surveyText": "Thanks for using {{company}}. If you’d like, you can {{- link}} This will take no longer than a minute.",
+    "title": "Delete Account"
+  },
+  "forgot": {
+    "button": "Reset password",
+    "emailPlaceholder": "Email",
+    "errorAlreadyProcessing": "We already sent you an email. The link is valid for 1 hour.",
+    "errorInvalidEmail": "That does not look like an email.",
+    "errorUnknown": "Something went wrong, please try again.",
+    "errorUnusedEmail": "This email is not in use.",
+    "successDescription": "We sent you a link to reset your password. It is valid for 1 hour.",
+    "successTitle": "Check your email",
+    "title": "Change Password"
   },
   "general": {
     "loading": "Please wait…"
-  },
-  "forgot": {
-    "title": "Change Password",
-    "successTitle": "Check your email",
-    "successDescription": "We sent you a link to reset your password. It is valid for 1 hour.",
-    "emailPlaceholder": "Email",
-    "button": "Reset password",
-    "errorInvalidEmail": "That does not look like an email.",
-    "errorUnusedEmail": "This email is not in use.",
-    "errorAlreadyProcessing": "We already sent you an email. The link is valid for 1 hour.",
-    "errorUnknown": "Something went wrong, please try again."
-  },
-  "reset": {
-    "title": "Password reset",
-    "successDescription": "You can now log in with your new password.",
-    "errorTitle": "The link is no longer valid",
-    "errorDescription": "Please try again.",
-    "button": "Reset password",
-    "passwordPlaceholder": "Enter new password",
-    "errorUnknown": "Something went wrong, please try again.",
-    "errorInvalidPassword": "Choose a password that is at least 8 characters."
-  },
-  "verify": {
-    "titleEmail": "Verify Account",
-    "titleBot": "Verify Bot",
-    "titlePhone": "Verify Phone",
-    "title": "Verifying",
-    "successBotTitle": "Thank you for registering",
-    "successBotDescription": "Please note that upon successful verification of your e-mail, your {{company}} service provider account is still subject to approval through our staff, which usually happens within 24 hours.",
-    "successBotDescriptionEmail": "You will be informed of the approval via a separate e-mail.",
-    "errorTitle": "Something went wrong.",
-    "error404Description": "Please try to create your account again.",
-    "error500Description": "We are investigating the issue, please check back shortly.",
-    "successEmailTitle": "Email verified",
-    "successEmailAppDescription": "Install the app to start using {{company}}.",
-    "successPhoneDescription": "Phone verification in progress"
   },
   "header": {
     "support": "Support"
@@ -65,5 +40,30 @@
     "openMac": "OPEN macOS APP",
     "openWeb": "Open in Web",
     "openWire": "Open {{company}}"
+  },
+  "reset": {
+    "button": "Reset password",
+    "errorDescription": "Please try again.",
+    "errorInvalidPassword": "Choose a password that is at least 8 characters.",
+    "errorTitle": "The link is no longer valid",
+    "errorUnknown": "Something went wrong, please try again.",
+    "passwordPlaceholder": "Enter new password",
+    "successDescription": "You can now log in with your new password.",
+    "title": "Password reset"
+  },
+  "verify": {
+    "error404Description": "Please try to create your account again.",
+    "error500Description": "We are investigating the issue, please check back shortly.",
+    "errorTitle": "Something went wrong.",
+    "successBotDescription": "Please note that upon successful verification of your e-mail, your {{company}} service provider account is still subject to approval through our staff, which usually happens within 24 hours.",
+    "successBotDescriptionEmail": "You will be informed of the approval via a separate e-mail.",
+    "successBotTitle": "Thank you for registering",
+    "successEmailAppDescription": "Install the app to start using {{company}}.",
+    "successEmailTitle": "Email verified",
+    "successPhoneDescription": "Phone verification in progress",
+    "title": "Verifying",
+    "titleBot": "Verify Bot",
+    "titleEmail": "Verify Account",
+    "titlePhone": "Verify Phone"
   }
 }

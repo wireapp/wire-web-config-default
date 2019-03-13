@@ -21,7 +21,6 @@ const https = require('https');
 const path = require('path');
 const fs = require('fs');
 const AdmZip = require('adm-zip');
-const crowdinConfig = require('../keys/crowdinConfig');
 const sortJson = require('sort-json');
 
 const zipPath = path.resolve(__dirname, 'wire-webapp.zip');
