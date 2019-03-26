@@ -51,7 +51,7 @@ function fetchUpdates() {
   return new Promise((resolve, reject) => {
     https.get(URL.EXPORT, response => {
       if (response.statusCode < 200 || response.statusCode > 299) {
-        reject('Failed to export, status code: ' + response.statusCode);
+        reject(`Failed to export, status code: ${response.statusCode}`);
       }
       response.on('data', () => {
         response.connection.end();
@@ -66,7 +66,7 @@ function download() {
   return new Promise((resolve, reject) => {
     https.get(URL.DOWNLOAD, response => {
       if (response.statusCode < 200 || response.statusCode > 299) {
-        reject('Failed to download, status code: ' + response.statusCode);
+        reject(`Failed to download, status code: ${response.statusCode}`);
       }
       response.on('data', data => fs.appendFileSync(zipPath, data));
       response.on('end', () => {
