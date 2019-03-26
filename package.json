@@ -17,9 +17,9 @@
     "release:prepatch": "npm version prepatch",
     "postversion": "git push --follow-tags",
     "sync": "git checkout master && git fetch upstream && git merge upstream/master && git push origin --follow-tags",
-    "translate:download:wire-account": "node wire-account/bin/translationDownload.js",
-    "translate:download:wire-team-settings": "node wire-team-settings/bin/translationDownload.js",
-    "translate:download:wire-webapp": "node wire-webapp/bin/translationDownload.js"
+    "translate:download:wire-account": "node ./bin/translationDownload.js -p wire-account",
+    "translate:download:wire-team-settings": "node ./bin/translationDownload.js -p wire-team-settings",
+    "translate:download:wire-webapp": "node ./bin/translationDownload.js -p wire-webapp"
   },
   "version": "0.16.5"
 }
