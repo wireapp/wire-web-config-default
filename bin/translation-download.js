@@ -27,7 +27,6 @@ const fs = require('fs');
 
 const AdmZip = require('adm-zip');
 const sortJson = require('sort-json');
-const {destinationPath, projectIdentifier, projectKey} = require('../keys/crowdinConfig');
 
 let projectName;
 
@@ -37,6 +36,8 @@ if ((process.argv[2] === '--project' || process.argv[2] === '-p') && process.arg
   console.error(`Usage: ${path.basename(__filename)} [--project|-p] <project name>`);
   process.exit(1);
 }
+
+const {destinationPath, projectIdentifier, projectKey} = require(`../${projectName}/keys/crowdinConfig`);
 
 const zipPath = path.resolve(__dirname, '..', projectName, `${projectName}.zip`);
 
@@ -48,21 +49,22 @@ const URL = {
 };
 
 function fetchUpdates() {
+  console.log('Building translations ...')
+
   return new Promise((resolve, reject) => {
     https.get(URL.EXPORT, response => {
       if (response.statusCode < 200 || response.statusCode > 299) {
         reject(`Failed to export, status code: ${response.statusCode}`);
       }
-      response.on('data', () => {
-        response.connection.end();
-        resolve();
-      });
+      response.on('data', resolve);
       response.on('error', reject);
     });
   });
 }
 
 function download() {
+  console.log('Downloading built translations ...')
+
   return new Promise((resolve, reject) => {
     https.get(URL.DOWNLOAD, response => {
       if (response.statusCode < 200 || response.statusCode > 299) {
@@ -70,6 +72,7 @@ function download() {
       }
       response.pipe(fs.createWriteStream(zipPath));
       response.on('end', () => {
+        console.log('Writing zip file ...')
         const zip = new AdmZip(zipPath);
         zip.getEntries().forEach(entry => {
           if (!entry.isDirectory) {
