@@ -68,7 +68,7 @@ function download() {
       if (response.statusCode < 200 || response.statusCode > 299) {
         reject(`Failed to download, status code: ${response.statusCode}`);
       }
-      response.on('data', data => fs.appendFileSync(zipPath, data));
+      response.pipe(fs.createWriteStream(zipPath));
       response.on('end', () => {
         const zip = new AdmZip(zipPath);
         zip.getEntries().forEach(entry => {
