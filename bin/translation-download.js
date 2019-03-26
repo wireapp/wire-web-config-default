@@ -27,15 +27,15 @@ const fs = require('fs');
 
 const AdmZip = require('adm-zip');
 const sortJson = require('sort-json');
-const { destinationPath, projectIdentifier, projectKey } = require('../keys/crowdinConfig');
+const {destinationPath, projectIdentifier, projectKey} = require('../keys/crowdinConfig');
 
 let projectName;
 
 if ((process.argv[2] === '--project' || process.argv[2] === '-p') && process.argv[3]) {
   projectName = process.argv[3];
 } else {
-  console.error(`Usage: ${path.basename(__filename)} [--project|-p] <project name>`)
-  process.exit(1)
+  console.error(`Usage: ${path.basename(__filename)} [--project|-p] <project name>`);
+  process.exit(1);
 }
 
 const zipPath = path.resolve(__dirname, '../', projectName, `${projectName}.zip`);
