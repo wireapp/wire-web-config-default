@@ -38,7 +38,7 @@ if ((process.argv[2] === '--project' || process.argv[2] === '-p') && process.arg
   process.exit(1);
 }
 
-const zipPath = path.resolve(__dirname, '../', projectName, `${projectName}.zip`);
+const zipPath = path.resolve(__dirname, '..', projectName, `${projectName}.zip`);
 
 const CROWDIN_API = `https://api.crowdin.com/api/project/${projectIdentifier}`;
 
