@@ -70,9 +70,14 @@ function download() {
       if (response.statusCode < 200 || response.statusCode > 299) {
         reject(`Failed to download, status code: ${response.statusCode}`);
       }
-      response.pipe(fs.createWriteStream(zipPath));
-      response.on('end', () => {
-        console.log('Writing zip file ...')
+
+      const writeStream = fs.createWriteStream(zipPath);
+      console.log('Writing zip file ...');
+
+      response.pipe(writeStream);
+      response.on('error', reject);
+
+      writeStream.on('finish', () => {
         const zip = new AdmZip(zipPath);
         zip.getEntries().forEach(entry => {
           if (!entry.isDirectory) {
@@ -82,8 +87,6 @@ function download() {
         fs.unlinkSync(zipPath);
         resolve();
       });
-
-      response.on('error', reject);
     });
   });
 }
