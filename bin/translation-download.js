@@ -49,7 +49,7 @@ const URL = {
 };
 
 function fetchUpdates() {
-  console.log('Building translations ...')
+  console.log('Building translations ...');
 
   return new Promise((resolve, reject) => {
     https.get(URL.EXPORT, response => {
@@ -63,7 +63,7 @@ function fetchUpdates() {
 }
 
 function download() {
-  console.log('Downloading built translations ...')
+  console.log('Downloading built translations ...');
 
   return new Promise((resolve, reject) => {
     https.get(URL.DOWNLOAD, response => {
@@ -71,11 +71,12 @@ function download() {
         reject(`Failed to download, status code: ${response.statusCode}`);
       }
 
+      response.on('error', reject);
+
       const writeStream = fs.createWriteStream(zipPath);
       console.log('Writing zip file ...');
 
       response.pipe(writeStream);
-      response.on('error', reject);
 
       writeStream.on('finish', () => {
         const zip = new AdmZip(zipPath);
