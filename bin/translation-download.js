@@ -49,7 +49,7 @@ const URL = {
 };
 
 function fetchUpdates() {
-  console.log('Building translations ...')
+  console.log('Building translations ...');
 
   return new Promise((resolve, reject) => {
     https.get(URL.EXPORT, response => {
@@ -63,16 +63,22 @@ function fetchUpdates() {
 }
 
 function download() {
-  console.log('Downloading built translations ...')
+  console.log('Downloading built translations ...');
 
   return new Promise((resolve, reject) => {
     https.get(URL.DOWNLOAD, response => {
       if (response.statusCode < 200 || response.statusCode > 299) {
         reject(`Failed to download, status code: ${response.statusCode}`);
       }
-      response.pipe(fs.createWriteStream(zipPath));
-      response.on('end', () => {
-        console.log('Writing zip file ...')
+
+      response.on('error', reject);
+
+      const writeStream = fs.createWriteStream(zipPath);
+      console.log('Writing zip file ...');
+
+      response.pipe(writeStream);
+
+      writeStream.on('finish', () => {
         const zip = new AdmZip(zipPath);
         zip.getEntries().forEach(entry => {
           if (!entry.isDirectory) {
@@ -82,8 +88,6 @@ function download() {
         fs.unlinkSync(zipPath);
         resolve();
       });
-
-      response.on('error', reject);
     });
   });
 }
