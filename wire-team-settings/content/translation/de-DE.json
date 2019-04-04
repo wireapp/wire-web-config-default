@@ -440,7 +440,7 @@
   "serviceDetail.addService": "Dienst aktivieren",
   "serviceItem.details": "Details",
   "setting.paymentNotAvailable": "Der Zahlungsdienst ist momentan nicht verfügbar. Bitte versuch es später erneut.",
-  "setting.sales": "Um zusätzlich zu sparen, frag <a href=\"mailto:sales@wire.com\">sales@wire.com</a> nach einem Angebot für 24 Monate.",
+  "setting.sales": "Um zusätzlich zu sparen, bitte <a href=\"mailto:sales@wire.com\">sales@wire.com</a> nach einem Angebot für 24 Monate fragen.",
   "setting.teamId": "Team ID: <b>{teamId}</b>",
   "teamCreateAccountStep.createTeam": "Team erstellen",
   "teamCreateAccountStep.emailPlaceholder": "E-Mail",
