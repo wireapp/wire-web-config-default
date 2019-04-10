@@ -44,9 +44,9 @@
   "reset": {
     "button": "Reset password",
     "errorDescription": "Please try again.",
-    "errorInvalidPassword": "Choose a password that is at least 8 characters.",
     "errorTitle": "The link is no longer valid",
     "errorUnknown": "Something went wrong, please try again.",
+    "passwordInfo": "Use at least {{minPasswordLength}} characters, with one lowercase letter, one capital letter, a number, and a special character.",
     "passwordPlaceholder": "Enter new password",
     "successDescription": "You can now log in with your new password.",
     "title": "Password reset"

@@ -44,9 +44,9 @@
   "reset": {
     "button": "Passwort zurücksetzen",
     "errorDescription": "Bitte versuche es erneut.",
-    "errorInvalidPassword": "Wähle ein Passwort mit mindestens acht Zeichen.",
     "errorTitle": "Der Link ist nicht mehr gültig",
     "errorUnknown": "Es ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "passwordInfo": "Use at least {{minPasswordLength}} characters, with one lowercase letter, one capital letter, a number, and a special character.",
     "passwordPlaceholder": "Neues Passwort eingeben",
     "successDescription": "Du kannst dich jetzt mit deinem neuen Passwort anmelden.",
     "title": "Passwort zurücksetzen"

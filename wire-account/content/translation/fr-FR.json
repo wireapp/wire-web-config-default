@@ -1,69 +1,69 @@
 {
   "delete": {
-    "button": "Delete Account",
-    "confirmation": "All your data on {{company}} is now erased.",
-    "description": "We’ve received a request to delete your {{company}} account. Click on the button below to proceed. It is valid for 10 minutes.",
-    "errorDescription": "Please try again to delete your account.",
-    "errorTitle": "Something went wrong",
-    "greeting": "Hi there,",
-    "headline": "Account deleted",
-    "resetLink": "reset your {{company}} password.",
-    "resetText": "If you did not ask for this, you should {{- link}}",
-    "surveyLink": "share your thoughts about it.",
-    "surveyText": "Thanks for using {{company}}. If you’d like, you can {{- link}} This will take no longer than a minute.",
-    "title": "Delete Account"
+    "button": "Supprimer le compte",
+    "confirmation": "Toutes vos données sur {{company}} sont maintenant effacées.",
+    "description": "Nous avons reçu une demande de suppression de votre compte {{company}}. Cliquez sur le bouton ci-dessous pour procéder. Il est valable pendant 10 minutes.",
+    "errorDescription": "Merci de réessayer de supprimer votre compte.",
+    "errorTitle": "Une erreur est survenue",
+    "greeting": "Bonjour,",
+    "headline": "Compte supprimé",
+    "resetLink": "réinitialiser votre mot de passe {{company}}.",
+    "resetText": "Si vous n’a pas effectué cette demande, vous devriez {{- link}}",
+    "surveyLink": "partagez vos pensées à ce sujet.",
+    "surveyText": "Nous vous remercions d’utiliser {{company}}. Si vous le souhaitez, vous pouvez {{- link}} Cela ne prendra pas plus d’une minute.",
+    "title": "Supprimer le compte"
   },
   "forgot": {
-    "button": "Reset password",
+    "button": "Réinitialiser le mot de passe",
     "emailPlaceholder": "Email",
-    "errorAlreadyProcessing": "We already sent you an email. The link is valid for 1 hour.",
-    "errorInvalidEmail": "That does not look like an email.",
-    "errorUnknown": "Something went wrong, please try again.",
-    "errorUnusedEmail": "This email is not in use.",
-    "successDescription": "We sent you a link to reset your password. It is valid for 1 hour.",
-    "successTitle": "Check your email",
-    "title": "Change Password"
+    "errorAlreadyProcessing": "Nous vous avons déjà envoyé un email. Le lien est valable pendant 10 minutes.",
+    "errorInvalidEmail": "Ceci ne ressemble pas à une adresse e-mail.",
+    "errorUnknown": "Une erreur est survenue, veuillez réessayer.",
+    "errorUnusedEmail": "Cette adresse e-mail n'est pas utilisée.",
+    "successDescription": "Nous vous avons envoyé un lien pour réinitialiser votre mot de passe. Il est valable pendant 1 heure.",
+    "successTitle": "Consulter votre messagerie",
+    "title": "Changer de mot de passe"
   },
   "general": {
-    "loading": "Please wait…"
+    "loading": "Veuillez patienter…"
   },
   "header": {
-    "support": "Support"
+    "support": "Assistance"
   },
   "index": {
-    "description": "Business chats, one-click conference calls and shared documents – all protected with end-to-end encryption. Also available for personal use.",
-    "title": "The most secure collaboration platform"
+    "description": "Conversations pour votre entreprise, visioconférences en un clic et partage de documents – protégés avec un chiffrement de bout-en-bout. Également disponible pour votre utilisation personnelle.",
+    "title": "La plateforme de collaboration la plus sûre"
   },
   "open": {
-    "description": "To sign in and start using {{company}}, launch the application.",
-    "downloadButton": "Get {{company}}",
-    "openMac": "OPEN macOS APP",
-    "openWeb": "Open in Web",
-    "openWire": "Open {{company}}"
+    "description": "Pour vous connecter et commencer à utiliser {{company}}, lancez l’application.",
+    "downloadButton": "Télécharger {{company}}",
+    "openMac": "Ouvrir l'application macOS",
+    "openWeb": "Ouvrir dans le navigateur",
+    "openWire": "Télécharger {{company}}"
   },
   "reset": {
-    "button": "Reset password",
-    "errorDescription": "Please try again.",
-    "errorInvalidPassword": "Choose a password that is at least 8 characters.",
-    "errorTitle": "The link is no longer valid",
-    "errorUnknown": "Something went wrong, please try again.",
-    "passwordPlaceholder": "Enter new password",
-    "successDescription": "You can now log in with your new password.",
-    "title": "Password reset"
+    "button": "Réinitialiser le mot de passe",
+    "errorDescription": "Veuillez réessayer.",
+    "errorTitle": "Ce lien n'est plus valable",
+    "errorUnknown": "Une erreur est survenue, veuillez réessayer.",
+    "passwordInfo": "Use at least {{minPasswordLength}} characters, with one lowercase letter, one capital letter, a number, and a special character.",
+    "passwordPlaceholder": "Entrer le nouveau mot de passe",
+    "successDescription": "Vous pouvez désormais vous connecter avec votre nouveau mot de passe.",
+    "title": "Mot de passe réinitialisé"
   },
   "verify": {
-    "error404Description": "Please try to create your account again.",
-    "error500Description": "We are investigating the issue, please check back shortly.",
-    "errorTitle": "Something went wrong.",
-    "successBotDescription": "Please note that upon successful verification of your e-mail, your {{company}} service provider account is still subject to approval through our staff, which usually happens within 24 hours.",
-    "successBotDescriptionEmail": "You will be informed of the approval via a separate e-mail.",
-    "successBotTitle": "Thank you for registering",
-    "successEmailAppDescription": "Install the app to start using {{company}}.",
-    "successEmailTitle": "Email verified",
-    "successPhoneDescription": "Phone verification in progress",
-    "title": "Verifying",
-    "titleBot": "Verify Bot",
-    "titleEmail": "Verify Account",
-    "titlePhone": "Verify Phone"
+    "error404Description": "Merci de réessayer de créer votre compte.",
+    "error500Description": "Nous vérifions le problème, merci de réessayer plus tard.",
+    "errorTitle": "Une erreur est survenue.",
+    "successBotDescription": "Veuillez noter qu'après la vérification de votre e-mail, votre compte de fournisseur de service {{company}} est toujours soumis à l'approbation de notre équipe, ce qui prend généralement moins de 24 heures.",
+    "successBotDescriptionEmail": "Vous serez informé(e) de l’approbation par un autre e-mail.",
+    "successBotTitle": "Merci de vous être inscrit",
+    "successEmailAppDescription": "Installer l'app pour commencer à utiliser {{company}}.",
+    "successEmailTitle": "Email vérifié",
+    "successPhoneDescription": "Vérification du numéro de téléphone en cours",
+    "title": "Vérification",
+    "titleBot": "Vérifier le Service",
+    "titleEmail": "Vérification du compte",
+    "titlePhone": "Vérifier le Téléphone"
   }
 }
