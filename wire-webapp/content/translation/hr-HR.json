@@ -62,6 +62,7 @@
   "accountForm.emailPersonalPlaceholder": "you@email.com",
   "accountForm.emailTeamPlaceholder": "you@yourcompany.com",
   "accountForm.namePlaceholder": "Name",
+  "accountForm.passwordHelp": "Use at least {minPasswordLength} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "accountForm.passwordPlaceholder": "Lozinka (najmanje 8 znakova)",
   "accountForm.submitButton": "Sljedeće",
   "accountForm.terms": "I accept the <a {linkParams}>terms and conditions</a>",

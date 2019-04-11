@@ -62,6 +62,7 @@
   "accountForm.emailPersonalPlaceholder": "te@cimed.hu",
   "accountForm.emailTeamPlaceholder": "te@céged.hu",
   "accountForm.namePlaceholder": "Név",
+  "accountForm.passwordHelp": "Use at least {minPasswordLength} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "accountForm.passwordPlaceholder": "Jelszó (legalább 8 karakter)",
   "accountForm.submitButton": "Tovább",
   "accountForm.terms": "Elfogadom a <a {linkParams}>felhasználási feltételeket</a>",

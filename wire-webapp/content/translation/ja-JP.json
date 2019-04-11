@@ -62,6 +62,7 @@
   "accountForm.emailPersonalPlaceholder": "you@email.com",
   "accountForm.emailTeamPlaceholder": "you@yourcompany.com",
   "accountForm.namePlaceholder": "名前",
+  "accountForm.passwordHelp": "Use at least {minPasswordLength} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "accountForm.passwordPlaceholder": "パスワード(最低8文字以上)",
   "accountForm.submitButton": "次へ",
   "accountForm.terms": "<a {linkParams}>規約と条件</a>に同意します。",

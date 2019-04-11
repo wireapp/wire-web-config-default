@@ -62,6 +62,7 @@
   "accountForm.emailPersonalPlaceholder": "vardenis@pavardenis.lt",
   "accountForm.emailTeamPlaceholder": "tu@tavoorganizacija.lt",
   "accountForm.namePlaceholder": "Vardas",
+  "accountForm.passwordHelp": "Use at least {minPasswordLength} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "accountForm.passwordPlaceholder": "Slaptažodis (bent 8 simboliai)",
   "accountForm.submitButton": "Kitas",
   "accountForm.terms": "Sutinku su <a {linkParams}>nuostatomis ir sąlygomis</a>",

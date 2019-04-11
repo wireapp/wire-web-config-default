@@ -62,6 +62,7 @@
   "accountForm.emailPersonalPlaceholder": "you@email.com",
   "accountForm.emailTeamPlaceholder": "you@yourcompany.com",
   "accountForm.namePlaceholder": "Imię",
+  "accountForm.passwordHelp": "Use at least {minPasswordLength} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "accountForm.passwordPlaceholder": "Hasło (musi mieć przynajmniej 8 znaków)",
   "accountForm.submitButton": "Dalej",
   "accountForm.terms": "Akceptuję <a {linkParams}>regulamin</a>",

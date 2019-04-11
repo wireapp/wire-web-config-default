@@ -62,6 +62,7 @@
   "accountForm.emailPersonalPlaceholder": "tu@email.com",
   "accountForm.emailTeamPlaceholder": "tú@tucompañía.com",
   "accountForm.namePlaceholder": "Nombre",
+  "accountForm.passwordHelp": "Use at least {minPasswordLength} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "accountForm.passwordPlaceholder": "Contraseña (mínimo 8 caracteres)",
   "accountForm.submitButton": "Siguiente",
   "accountForm.terms": "Acepto los <a {linkParams}>términos y condiciones</a>",

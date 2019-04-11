@@ -62,6 +62,7 @@
   "accountForm.emailPersonalPlaceholder": "sina@email.ee",
   "accountForm.emailTeamPlaceholder": "sina@sinufirma.ee",
   "accountForm.namePlaceholder": "Nimi",
+  "accountForm.passwordHelp": "Use at least {minPasswordLength} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "accountForm.passwordPlaceholder": "Parool (vähemalt 8 märki)",
   "accountForm.submitButton": "Järgmine",
   "accountForm.terms": "Ma nõustun <a {linkParams}>kasutustingimustega</a>",

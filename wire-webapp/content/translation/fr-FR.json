@@ -62,6 +62,7 @@
   "accountForm.emailPersonalPlaceholder": "vous@email.fr",
   "accountForm.emailTeamPlaceholder": "vous@votreentreprise.com",
   "accountForm.namePlaceholder": "Nom",
+  "accountForm.passwordHelp": "Use at least {minPasswordLength} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "accountForm.passwordPlaceholder": "Mot de passe (8 caractères minimum)",
   "accountForm.submitButton": "Suivant",
   "accountForm.terms": "J'accepte les <a {linkParams}>termes d'utilisation</a>",
