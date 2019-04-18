@@ -425,7 +425,7 @@
   "paymentPlan.upgrade": "Zu jährlicher Zahlung wechseln",
   "paymentPlan.upgradeAttention": "Es ist nicht möglich, von jährlicher auf monatliche Abrechnung zurückzuwechseln.",
   "paymentPlan.upgradeConfirm": "Upgrade",
-  "paymentPlan.upgradeDisclaimer": "Wähle die jährliche Abrechnung für einen Rabatt:<br />Zahle {annualPerSeat} jährlich pro Nutzer ({annualPerSeatPerMonth} monatlich pro Nutzer).<br />Nach dem Wechsel zur jährlichen Abrechnung kann nicht auf die monatliche Abrechnung zurückgewechselt werden.",
+  "paymentPlan.upgradeDisclaimer": "Wähle die jährliche Abrechnung für einen Rabatt: Zahle {annualPerSeat} jährlich pro Nutzer ({annualPerSeatPerMonth} monatlich pro Nutzer). Nach dem Wechsel zur jährlichen Abrechnung kann nicht auf die monatliche Abrechnung zurückgewechselt werden.",
   "paymentPlan.upgradeHeadline": "Tarif upgraden",
   "paymentPlan.upgradeInfo": "Du bist dabei, von monatlicher zu jährlicher Abrechnung zu wechseln.<br />Am {trialEndDate} werden dann {annualTotal} ({annualPerSeat} jährlich pro Nutzer) in Rechnung gestellt.",
   "paymentPlan.upgradeInfoImmediately": "Du bist dabei, von monatlicher zu jährlicher Abrechnung zu wechseln.<br /> Dann werden {annualTotal} ({annualPerSeat} jährlich pro Nutzer) umgehend in Rechnung gestellt.",

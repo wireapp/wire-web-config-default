@@ -425,7 +425,7 @@
   "paymentPlan.upgrade": "Upgrade to annual",
   "paymentPlan.upgradeAttention": "It is not possible to downgrade from annual billing to a monthly plan",
   "paymentPlan.upgradeConfirm": "Upgrade",
-  "paymentPlan.upgradeDisclaimer": "Switch to annual billing for a discount:<br />Pay {annualPerSeat} per user per year ({annualPerSeatPerMonth} per user per month).<br />It is not possible to downgrade from annual billing to a monthly plan.",
+  "paymentPlan.upgradeDisclaimer": "Switch to annual billing for a discount: Pay {annualPerSeat} per user per year ({annualPerSeatPerMonth} per user per month). It is not possible to downgrade from annual billing to a monthly plan.",
   "paymentPlan.upgradeHeadline": "Upgrade your plan",
   "paymentPlan.upgradeInfo": "You are about to upgrade from monthly to annual billing.<br />You will be billed {annualTotal} ({annualPerSeat} per user per year) on {trialEndDate}.",
   "paymentPlan.upgradeInfoImmediately": "You are about to upgrade from monthly to annual billing.<br />You will be billed {annualTotal} ({annualPerSeat} per user per year) immediately.",

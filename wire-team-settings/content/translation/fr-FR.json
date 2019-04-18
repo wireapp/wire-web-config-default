@@ -425,7 +425,7 @@
   "paymentPlan.upgrade": "Passer en annuel",
   "paymentPlan.upgradeAttention": "Il n’est pas possible de passer d’une facturation annuelle à une facturation mensuelle",
   "paymentPlan.upgradeConfirm": "Mise à jour",
-  "paymentPlan.upgradeDisclaimer": "Passez à la facturation annuelle pour obtenir une réduction :<br />Payez <strong>{annualPerSeat}</strong> par utilisateur par an (<strong>{annualPerSeatPerMonth}</strong> par utilisateur par mois).<br />Il n’est pas possible de repasser d’une facturation annuelle à une facturation mensuelle.",
+  "paymentPlan.upgradeDisclaimer": "Passez à la facturation annuelle pour obtenir une réduction: Payez {annualPerSeat} par utilisateur par an ({annualPerSeatPerMonth} par utilisateur par mois). Il n’est pas possible de repasser d’une facturation annuelle à une facturation mensuelle.",
   "paymentPlan.upgradeHeadline": "Mettez à jour votre abonnement",
   "paymentPlan.upgradeInfo": "Vous êtes sur le point de passer d’une facturation mensuelle à une facturation annuelle.<br />Vous serez facturé {annualTotal} ({annualPerSeat} par utilisateur et par an) le {trialEndDate}.",
   "paymentPlan.upgradeInfoImmediately": "Vous êtes sur le point de passer d’une facturation mensuelle à une facturation annuelle.<br />Vous serez facturé {annualTotal} ({annualPerSeat} par utilisateur et par an) immédiatement.",
