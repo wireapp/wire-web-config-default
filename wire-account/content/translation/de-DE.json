@@ -43,9 +43,8 @@
   },
   "reset": {
     "button": "Passwort zurücksetzen",
-    "errorDescription": "Bitte versuche es erneut.",
+    "errorInvalidLink": "The link is not valid. Please try again.",
     "errorPasswordAlreadyUsed": "Please choose a new password.",
-    "errorTitle": "Der Link ist nicht mehr gültig",
     "errorUnknown": "Es ist ein Fehler aufgetreten. Bitte versuche es erneut.",
     "passwordInfo": "Use at least {{minPasswordLength}} characters, with one lowercase letter, one capital letter, a number, and a special character.",
     "passwordPlaceholder": "Neues Passwort eingeben",

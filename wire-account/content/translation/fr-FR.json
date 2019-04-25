@@ -43,9 +43,8 @@
   },
   "reset": {
     "button": "Réinitialiser le mot de passe",
-    "errorDescription": "Veuillez réessayer.",
+    "errorInvalidLink": "The link is not valid. Please try again.",
     "errorPasswordAlreadyUsed": "Please choose a new password.",
-    "errorTitle": "Ce lien n'est plus valable",
     "errorUnknown": "Une erreur est survenue, veuillez réessayer.",
     "passwordInfo": "Use at least {{minPasswordLength}} characters, with one lowercase letter, one capital letter, a number, and a special character.",
     "passwordPlaceholder": "Entrer le nouveau mot de passe",
