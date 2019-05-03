@@ -17,6 +17,7 @@
     "release:prepatch": "npm version prepatch",
     "postversion": "git push --follow-tags",
     "sync": "git checkout master && git fetch upstream && git merge upstream/master && git push origin --follow-tags",
+    "translate:download": "translate:download:wire-account && translate:download:wire-desktop && translate:download:wire-team-settings && translate:download:wire-webapp",
     "translate:download:wire-account": "node ./bin/translation-download.js -p wire-account",
     "translate:download:wire-desktop": "node ./bin/translation-download.js -p wire-desktop",
     "translate:download:wire-team-settings": "node ./bin/translation-download.js -p wire-team-settings",
