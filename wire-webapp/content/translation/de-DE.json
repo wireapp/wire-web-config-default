@@ -510,7 +510,7 @@
   "modalAvailabilityAvailableTitle": "Status: Verfügbar",
   "modalAvailabilityAwayMessage": "Andere sehen den Status als Abwesend. Benachrichtigungen über eingehende Anrufe oder Nachrichten werden nicht angezeigt.",
   "modalAvailabilityAwayTitle": "Status: Abwesend",
-  "modalAvailabilityBusyMessage": "Andere sehen den Status als Beschäftigt. Benachrichtigungen über Erwähnungen, Antworte und eingehende Anrufe werden in Unterhaltungen angezeigt, die nicht stummgestellt sind.",
+  "modalAvailabilityBusyMessage": "Andere sehen den Status als Beschäftigt. Benachrichtigungen über Erwähnungen, Antworten und eingehende Anrufe werden in Unterhaltungen angezeigt, die nicht stummgeschaltet sind.",
   "modalAvailabilityBusyTitle": "Status: Beschäftigt",
   "modalAvailabilityDontShowAgain": "Diesen Hinweis nicht nochmal zeigen",
   "modalAvailabilityNoneMessage": "Benachrichtigungen über eingehende Anrufe und Nachrichten werden anhand der Einstellungen in jeder Unterhaltung angezeigt.",
