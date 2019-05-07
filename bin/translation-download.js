@@ -97,8 +97,8 @@ function sortTranslationJson() {
 }
 
 fetchUpdates()
-  .then(() => download())
-  .then(() => sortTranslationJson())
+  .then(download)
+  .then(sortTranslationJson)
   .catch(error => {
     console.error(error);
     process.exit(1);
