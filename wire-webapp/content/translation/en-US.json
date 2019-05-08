@@ -902,9 +902,8 @@
   "warningPermissionRequestMicrophone": "[icon] Allow access to microphone",
   "warningPermissionRequestNotification": "[icon] Allow notifications",
   "warningPermissionRequestScreen": "[icon] Allow access to screen",
-  "wire": "Wire",
-  "wireLinux": "Wire for Linux",
-  "wireMacos": "Wire for macOS",
-  "wireWindows": "Wire for Windows",
-  "wire_for_web": "Wire for Web"
+  "wireLinux": "{{brandName}} for Linux",
+  "wireMacos": "{{brandName}} for macOS",
+  "wireWindows": "{{brandName}} for Windows",
+  "wire_for_web": "{{brandName}} for Web"
 }
