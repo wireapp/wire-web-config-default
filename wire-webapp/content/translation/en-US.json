@@ -156,7 +156,7 @@
   "backupImportProgressSecondary": "Restoring history · {{processed}} of {{total}} — {{progress}}%",
   "backupImportSuccessHeadline": "History restored.",
   "backupImportVersionErrorHeadline": "Incompatible backup",
-  "backupImportVersionErrorSecondary": "This backup was created by a newer or outdated version of Wire and cannot be restored here.",
+  "backupImportVersionErrorSecondary": "This backup was created by a newer or outdated version of {{brandName}} and cannot be restored here.",
   "backupTryAgain": "Try Again",
   "callAccept": "Accept",
   "callChooseSharedScreen": "Choose a screen to share",
