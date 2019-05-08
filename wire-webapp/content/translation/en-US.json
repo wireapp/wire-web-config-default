@@ -804,7 +804,7 @@
   "takeoverButtonChoose": "Choose your own",
   "takeoverButtonKeep": "Keep this one",
   "takeoverLink": "Learn more",
-  "takeoverSub": "Claim your unique name on Wire.",
+  "takeoverSub": "Claim your unique name on {{brandName}}.",
   "teamName.headline": "Name your team",
   "teamName.subhead": "You can always change it later.",
   "teamName.teamNamePlaceholder": "Team name",
