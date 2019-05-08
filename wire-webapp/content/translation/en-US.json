@@ -87,7 +87,7 @@
   "authAccountPublicComputer": "This is a public computer",
   "authAccountSignIn": "Log in",
   "authAccountSignInPhone": "Phone Log in",
-  "authBlockedCookies": "Enable cookies to log in to Wire.",
+  "authBlockedCookies": "Enable cookies to log in to {{brandName}}.",
   "authBlockedDatabase": "Wire needs access to local storage to display your messages. Local storage is not available in private mode.",
   "authBlockedTabs": "Wire is already open in another tab.",
   "authBlockedTabsAction": "Use this tab instead",
