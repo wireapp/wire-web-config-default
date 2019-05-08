@@ -152,7 +152,6 @@
   "backupImportIncompatibleErrorHeadline": "Backup errado",
   "backupImportIncompatibleErrorSecondary": "Você não pode restaurar o histórico de uma conta diferente.",
   "backupImportOutdatedErrorHeadline": "Backup Incompatível",
-  "backupImportOutdatedErrorSecondary": "Este backup foi criado por uma versão mais recente ou desatualizada do Wire e não pode ser restaurado aqui.",
   "backupImportProgressHeadline": "Preparando…",
   "backupImportProgressSecondary": "Restaurando histórico · {{processed}} de {{total}} — {{progress}}%",
   "backupImportSuccessHeadline": "Histórico restaurado.",
@@ -283,7 +282,7 @@
   "conversationMessageDelivered": "Entregue",
   "conversationMissedMessages": "Você não usou este dispositivo por algum um tempo. Algumas mensagens podem não aparecer aqui.",
   "conversationNotFoundMessage": "You may not have permission with this account or it no longer exists.",
-  "conversationNotFoundTitle": "Wire can’t open this conversation.",
+  "conversationNotFoundTitle": "{{brandName}} can’t open this conversation.",
   "conversationParticipantsSearchPlaceholder": "Pesquisar por nome",
   "conversationParticipantsTitle": "Pessoas",
   "conversationPing": " pingou",
@@ -864,8 +863,8 @@
   "userAvailabilityAway": "Ausente",
   "userAvailabilityBusy": "Ocupado",
   "userAvailabilityNone": "Nenhum",
-  "userNotFoundMessage": "You may not have permission with this account or the person may not be on Wire.",
-  "userNotFoundTitle": "Wire can’t find this person.",
+  "userNotFoundMessage": "You may not have permission with this account or the person may not be on {{brandName}}.",
+  "userNotFoundTitle": "{{brandName}} can’t find this person.",
   "userProfileButtonConnect": "Conectar",
   "userProfileButtonIgnore": "Ignorar",
   "userProfileButtonUnblock": "Desbloquear",
@@ -903,9 +902,8 @@
   "warningPermissionRequestMicrophone": "{{icon}} Permitir acesso ao microfone",
   "warningPermissionRequestNotification": "Permitir notificações",
   "warningPermissionRequestScreen": "Permitir acesso ao ecrã",
-  "wire": "Wire",
   "wireLinux": "Wire para Linux",
   "wireMacos": "Wire para macOS",
   "wireWindows": "Wire para Windows",
-  "wire_for_web": "Wire for Web"
+  "wire_for_web": "{{brandName}} for Web"
 }

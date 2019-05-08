@@ -152,7 +152,6 @@
   "backupImportIncompatibleErrorHeadline": "Copia de seguridad incorrecta",
   "backupImportIncompatibleErrorSecondary": "No se puede restaurar el historial desde una cuenta diferente.",
   "backupImportOutdatedErrorHeadline": "Copia de seguridad incompatible",
-  "backupImportOutdatedErrorSecondary": "Esta copia de seguridad fue creada por una versión antigua o más reciente de Wire y no se puede restaurar aquí.",
   "backupImportProgressHeadline": "Preparando…",
   "backupImportProgressSecondary": "Restaurando la copia de seguridad. {{processed}} de {{total}} - {{progress}}%",
   "backupImportSuccessHeadline": "Historia restaurada.",
@@ -283,7 +282,7 @@
   "conversationMessageDelivered": "Entregado",
   "conversationMissedMessages": "No has utilizado este dispositivo durante un tiempo. Algunos mensajes no aparecerán aquí.",
   "conversationNotFoundMessage": "You may not have permission with this account or it no longer exists.",
-  "conversationNotFoundTitle": "Wire can’t open this conversation.",
+  "conversationNotFoundTitle": "{{brandName}} can’t open this conversation.",
   "conversationParticipantsSearchPlaceholder": "Buscar por nombre",
   "conversationParticipantsTitle": "Personas",
   "conversationPing": " ping",
@@ -864,8 +863,8 @@
   "userAvailabilityAway": "Ausente",
   "userAvailabilityBusy": "Ocupado",
   "userAvailabilityNone": "Ninguno",
-  "userNotFoundMessage": "You may not have permission with this account or the person may not be on Wire.",
-  "userNotFoundTitle": "Wire can’t find this person.",
+  "userNotFoundMessage": "You may not have permission with this account or the person may not be on {{brandName}}.",
+  "userNotFoundTitle": "{{brandName}} can’t find this person.",
   "userProfileButtonConnect": "Conectar",
   "userProfileButtonIgnore": "Ignorar",
   "userProfileButtonUnblock": "Desbloquear",
@@ -903,9 +902,8 @@
   "warningPermissionRequestMicrophone": "[icon] Permitir acceso al micrófono",
   "warningPermissionRequestNotification": "[icon] Permitir notificaciones",
   "warningPermissionRequestScreen": "[icon] Permitir acceso a la pantalla",
-  "wire": "Wire",
   "wireLinux": "Wire para Linux",
   "wireMacos": "Wire para macOS",
   "wireWindows": "Wire para Windows",
-  "wire_for_web": "Wire for Web"
+  "wire_for_web": "{{brandName}} for Web"
 }
