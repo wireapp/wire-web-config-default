@@ -152,7 +152,6 @@
   "backupImportIncompatibleErrorHeadline": "Wrong backup",
   "backupImportIncompatibleErrorSecondary": "You cannot restore history from a different account.",
   "backupImportOutdatedErrorHeadline": "Incompatible backup",
-  "backupImportOutdatedErrorSecondary": "This backup was created by a newer or outdated version of Wire and cannot be restored here.",
   "backupImportProgressHeadline": "Preparing…",
   "backupImportProgressSecondary": "Restoring history · {{processed}} of {{total}} — {{progress}}%",
   "backupImportSuccessHeadline": "History restored.",
