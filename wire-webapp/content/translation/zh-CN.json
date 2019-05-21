@@ -768,7 +768,7 @@
   "replyQuoteTimeStampTime": "Original message from {{time}}",
   "roleAdmin": "Admin",
   "roleOwner": "Owner",
-  "rolePartner": "Partner",
+  "rolePartner": "External",
   "searchConnect": "好友请求",
   "searchConnections": "好友",
   "searchContacts": "联系人",

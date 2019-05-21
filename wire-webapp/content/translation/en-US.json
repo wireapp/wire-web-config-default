@@ -110,7 +110,7 @@
   "authErrorSuspended": "This account is no longer authorized to log in.",
   "authHistoryButton": "OK",
   "authHistoryDescription": "For privacy reasons, your conversation history will not appear here.",
-  "authHistoryHeadline": "It’s the first time you’re using Wire on this device.",
+  "authHistoryHeadline": "It’s the first time you’re using {{brandName}} on this device.",
   "authHistoryReuseDescription": "Messages sent in the meantime will not appear here.",
   "authHistoryReuseHeadline": "You’ve used {{brandName}} on this device before.",
   "authLimitButtonManage": "Manage devices",
