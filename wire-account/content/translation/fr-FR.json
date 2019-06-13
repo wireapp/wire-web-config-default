@@ -8,9 +8,9 @@
     "greeting": "Bonjour,",
     "headline": "Compte supprimé",
     "resetLink": "réinitialiser votre mot de passe {{company}}.",
-    "resetText": "Si vous n’a pas effectué cette demande, vous devriez {{- link}}",
+    "resetText": "Si vous n’a pas effectué cette demande, vous devriez <link>",
     "surveyLink": "partagez vos pensées à ce sujet.",
-    "surveyText": "Nous vous remercions d’utiliser {{company}}. Si vous le souhaitez, vous pouvez {{- link}} Cela ne prendra pas plus d’une minute.",
+    "surveyText": "Nous vous remercions d’utiliser {{company}}. Si vous le souhaitez, vous pouvez <link> Cela ne prendra pas plus d’une minute.",
     "title": "Supprimer le compte"
   },
   "forgot": {
@@ -43,10 +43,10 @@
   },
   "reset": {
     "button": "Réinitialiser le mot de passe",
-    "errorInvalidLink": "The link is not valid. Please try again.",
-    "errorPasswordAlreadyUsed": "Please choose a new password.",
+    "errorInvalidLink": "Le lien est invalide. Veuillez réessayer.",
+    "errorPasswordAlreadyUsed": "Veuillez choisir un nouveau mot de passe.",
     "errorUnknown": "Une erreur est survenue, veuillez réessayer.",
-    "passwordInfo": "Use at least {{minPasswordLength}} characters, with one lowercase letter, one capital letter, a number, and a special character.",
+    "passwordInfo": "Utilisez au moins {{minPasswordLength}} caractères, avec une lettre minuscule, une lettre majuscule, un numéro et un caractère spécial.",
     "passwordPlaceholder": "Entrer le nouveau mot de passe",
     "successDescription": "Vous pouvez désormais vous connecter avec votre nouveau mot de passe.",
     "title": "Mot de passe réinitialisé"
