@@ -601,6 +601,8 @@
   "modalImproveWireSecondary": "Non",
   "modalIntegrationUnavailableHeadline": "Les bots sont indisponibles pour le moment",
   "modalIntegrationUnavailableMessage": "Merci de votre intérêt pour les bots. Ce service est actuellement désactivé pendant que nous travaillons sur la prochaine version. Restez à l’écoute.",
+  "modalLegalHoldDeactivatedMessage": "Future messages will not be recorded.",
+  "modalLegalHoldDeactivatedTitle": "Legal hold deactivated",
   "modalNoCameraMessage": "Wire n’a pas accès à la caméra.[br][faqLink]Lisez cet article de support[/faqLink] pour savoir comment résoudre ce problème.",
   "modalNoCameraTitle": "Appareil photo indisponible",
   "modalOpenLinkAction": "Ouvrir",

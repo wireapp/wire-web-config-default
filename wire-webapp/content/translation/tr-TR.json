@@ -601,6 +601,8 @@
   "modalImproveWireSecondary": "Hayır",
   "modalIntegrationUnavailableHeadline": "Botlar şuanda kullanılabilir değil",
   "modalIntegrationUnavailableMessage": "Botlara ilginiz için teşekkür ederiz. Bir bir sonraki sürüm üzerinde çalışırken hizmet askıya alınmış. Beklemede kalın.",
+  "modalLegalHoldDeactivatedMessage": "Future messages will not be recorded.",
+  "modalLegalHoldDeactivatedTitle": "Legal hold deactivated",
   "modalNoCameraMessage": "{{brandName}} kameraya erişemiyor.[br][faqLink]Nasıl düzeltileceğini öğrenmek için bu destek makalesini[/faqLink] okuyun.",
   "modalNoCameraTitle": "Kamera erişimi yok",
   "modalOpenLinkAction": "Aç",
