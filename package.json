@@ -23,5 +23,5 @@
     "translate:download:wire-team-settings": "node ./bin/translation-download.js -p wire-team-settings",
     "translate:download:wire-webapp": "node ./bin/translation-download.js -p wire-webapp"
   },
-  "version": "0.22.4"
+  "version": "0.22.5"
 }
