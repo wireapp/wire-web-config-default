@@ -359,7 +359,7 @@
   "conversationsSecondaryLineSummaryReply": "{{number}} 返信",
   "conversationsSecondaryLineYouLeft": "あなたは退出しました",
   "conversationsSecondaryLineYouWereRemoved": "あなたは削除されました",
-  "cookiePolicyStrings.bannerText": "私たちは当社のウェブサイト上のあなたの経験をパーソナライズするために cookie を使用します。Web サイトを使用し続けることによりあなたはクッキーの使用に同意します。<br/>クッキーに関するさらなる情報は、私たち <b>プライバシー ポリシー</b> で見つけることができます。",
+  "cookiePolicyStrings.bannerText": "私たちは当社のウェブサイト上のあなたの経験をパーソナライズするために cookie を使用します。ウェブサイトを利用し続けることによりあなたは cookie の使用に同意します。<br/>cookie に関するさらなる情報は、私たち <b>プライバシー ポリシー</b> で見つけることができます。",
   "createAccount.headLine": "あなたのアカウントをセットアップします",
   "createAccount.nextButton": "次へ",
   "createPersonalAccount.headLine": "新規アカウント",
