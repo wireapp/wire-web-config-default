@@ -530,7 +530,7 @@
   "modalAppLockLockedTitle": "App wegen Inaktivität gesperrt",
   "modalAppLockLockedUnlockButton": "Entsperren",
   "modalAppLockSetupAcceptButton": "Kennwort festlegen",
-  "modalAppLockSetupInfo": "Bitte mindestens 8 Zeichen verwenden: mit einem Kleinbuchstaben, einem Großbuchstaben, einer Zahl und einem Sonderzeichen.",
+  "modalAppLockSetupInfo": "Bitte mindestens {{minPasswordLength}} Zeichen verwenden: mit einem Kleinbuchstaben, einem Großbuchstaben, einer Zahl und einem Sonderzeichen.",
   "modalAppLockSetupMessage": "Die App wird nach einer bestimmten Zeit der Inaktivität gesperrt.[br]Um die App zu entsperren, muss dieses Kennwort eingegeben werden.[br]Bitte beachten, sich dieses Kennwort zu merken, da es keine Möglichkeit gibt, es wiederherzustellen.",
   "modalAppLockSetupPlaceholder": "Kennwort",
   "modalAppLockSetupSecondPlaceholder": "Kennwort wiederholen",

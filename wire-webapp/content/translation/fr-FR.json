@@ -530,7 +530,7 @@
   "modalAppLockLockedTitle": "Application verrouillée en raison de l’inactivité",
   "modalAppLockLockedUnlockButton": "Déverrouiller",
   "modalAppLockSetupAcceptButton": "Valider phrase de passe",
-  "modalAppLockSetupInfo": "Utilisez au moins 8 caractères, avec une lettre minuscule, une lettre majuscule, un chiffre et un caractère spécial.",
+  "modalAppLockSetupInfo": "Utilisez au moins {{minPasswordLength}} caractères, avec une lettre minuscule, une lettre majuscule, un chiffre et un caractère spécial.",
   "modalAppLockSetupMessage": "Cette application se verrouillera automatiquement après un certain temps d’inactivité.[br]Pour déverrouiller l’application, vous devrez saisir cette phrase de passe.[br]Veuillez vous assurer de retenir cette phrase de passe, car il n’y a aucun moyen de la récupérer.",
   "modalAppLockSetupPlaceholder": "Phrase de passe",
   "modalAppLockSetupSecondPlaceholder": "Répétez la phrase de passe",

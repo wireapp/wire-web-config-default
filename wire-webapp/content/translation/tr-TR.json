@@ -530,7 +530,7 @@
   "modalAppLockLockedTitle": "App locked due to inactivity",
   "modalAppLockLockedUnlockButton": "Unlock",
   "modalAppLockSetupAcceptButton": "Set passphrase",
-  "modalAppLockSetupInfo": "Use at least 8 characters, with one lowercase letter, one capital letter, a number, and a special character.",
+  "modalAppLockSetupInfo": "Use at least {{minPasswordLength}} characters, with one lowercase letter, one capital letter, a number, and a special character.",
   "modalAppLockSetupMessage": "The app will lock itself after a certain time of inactivity.[br]To unlock the app you need to enter this passphrase.[br]Make sure to remember this passphrase as there is no way to recover it.",
   "modalAppLockSetupPlaceholder": "Passphrase",
   "modalAppLockSetupSecondPlaceholder": "Repeat passphrase",
