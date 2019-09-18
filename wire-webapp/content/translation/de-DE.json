@@ -544,6 +544,8 @@
   "modalAppLockWipePasswordGoBackButton": "Zurück",
   "modalAppLockWipePasswordPlaceholder": "Passwort",
   "modalAppLockWipePasswordTitle": "Enter your Wire account password to reset this client",
+  "modalAssetFileTypeRestrictionHeadline": "Restricted filetype",
+  "modalAssetFileTypeRestrictionMessage": "The filetype of \"{{fileName}}\" is not allowed.",
   "modalAssetParallelUploadsHeadline": "Zu viele Dateien auf einmal",
   "modalAssetParallelUploadsMessage": "Du kannst bis zu {{number}} Dateien auf einmal senden.",
   "modalAssetTooLargeHeadline": "Datei zu groß",
