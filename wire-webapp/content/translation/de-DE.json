@@ -543,7 +543,7 @@
   "modalAppLockWipePasswordError": "Falsches Passwort",
   "modalAppLockWipePasswordGoBackButton": "Zurück",
   "modalAppLockWipePasswordPlaceholder": "Passwort",
-  "modalAppLockWipePasswordTitle": "Bitte Passwort für das Wire-Konto eingeben, um diesen Client zurückzusetzen",
+  "modalAppLockWipePasswordTitle": "Bitte Passwort für das {{brandName}}-Konto eingeben, um diesen Client zurückzusetzen",
   "modalAssetFileTypeRestrictionHeadline": "Eingeschränkter Dateityp",
   "modalAssetFileTypeRestrictionMessage": "Der Dateityp von \"{{fileName}}\" ist nicht erlaubt.",
   "modalAssetParallelUploadsHeadline": "Zu viele Dateien auf einmal",

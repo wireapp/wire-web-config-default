@@ -543,7 +543,7 @@
   "modalAppLockWipePasswordError": "Wrong password",
   "modalAppLockWipePasswordGoBackButton": "Go back",
   "modalAppLockWipePasswordPlaceholder": "Password",
-  "modalAppLockWipePasswordTitle": "Enter your Wire account password to reset this client",
+  "modalAppLockWipePasswordTitle": "Enter your {{brandName}} account password to reset this client",
   "modalAssetFileTypeRestrictionHeadline": "Restricted filetype",
   "modalAssetFileTypeRestrictionMessage": "The filetype of \"{{fileName}}\" is not allowed.",
   "modalAssetParallelUploadsHeadline": "Previše datoteka odjednom",
