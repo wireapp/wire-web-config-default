@@ -555,7 +555,7 @@
   "modalAppLockWipePasswordGoBackButton": "Retour",
   "modalAppLockWipePasswordPlaceholder": "Mot de passe",
   "modalAppLockWipePasswordTitle": "Entrez le mot de passe de votre compte Wire pour réinitialiser ce client",
-  "modalAssetFileTypeRestrictionHeadline": "Type de fichier restreint",
+  "modalAssetFileTypeRestrictionHeadline": "Type de fichier incompatible",
   "modalAssetFileTypeRestrictionMessage": "Le type de fichier de \"{{fileName}}\" n'est pas autorisé.",
   "modalAssetParallelUploadsHeadline": "Trop de fichiers à la fois",
   "modalAssetParallelUploadsMessage": "Vous pouvez envoyer jusqu’à {{number}} fichiers à la fois.",
