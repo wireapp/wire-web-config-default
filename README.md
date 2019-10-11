@@ -25,8 +25,8 @@ No license is granted to the Wire trademark and its associated logos, all of whi
 
 ## Update company repository
 
-1.  First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-default.git`
-2.  Run `yarn sync`
+1. First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-default.git`
+2. Run `yarn sync`
 
 ## Setting up translations download (only on `wire-web-config-default`!)
 
@@ -43,6 +43,7 @@ No license is granted to the Wire trademark and its associated logos, all of whi
      destinationPath: path.resolve(__dirname, '../content/translation'),
    };
    ```
+
 ### Download latest translations (only on `wire-web-config-default`!)
 
 1. Run the project's translation command (see [`package.json`](./package.json), e.g. `yarn translate:download:wire-webapp`)
