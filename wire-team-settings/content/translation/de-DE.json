@@ -4,7 +4,7 @@
   "BackendErrorLabel.BAD_REQUEST": "Ungültige Eingabe",
   "BackendErrorLabel.BLACKLISTED_EMAIL": "Diese E-Mail-Adresse ist nicht zulässig.",
   "BackendErrorLabel.BLACKLISTED_PHONE": "Diese Telefonnummer ist nicht zulässig.",
-  "BackendErrorLabel.FORBIDDEN_LOGIN": "Unsufficient permission for managing teams",
+  "BackendErrorLabel.FORBIDDEN_LOGIN": "Unzureichende Berechtigung für die Verwaltung von Teams",
   "BackendErrorLabel.HANDLE_EXISTS": "Dieser Benutzername ist bereits vergeben.",
   "BackendErrorLabel.IDENTITY_PROVIDER_INVALID_METADATA": "Ungültige Metadaten-XML",
   "BackendErrorLabel.IDENTITY_PROVIDER_INVALID_SIGNATURE": "Ungültige Signatur",

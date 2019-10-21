@@ -4,7 +4,7 @@
   "BackendErrorLabel.BAD_REQUEST": "Saisie non valide",
   "BackendErrorLabel.BLACKLISTED_EMAIL": "Cette adresse e-mail n’est pas autorisée.",
   "BackendErrorLabel.BLACKLISTED_PHONE": "Ce numéro de téléphone n’est pas autorisé.",
-  "BackendErrorLabel.FORBIDDEN_LOGIN": "Unsufficient permission for managing teams",
+  "BackendErrorLabel.FORBIDDEN_LOGIN": "Insufficient permission for managing teams",
   "BackendErrorLabel.HANDLE_EXISTS": "Ce nom d’utilisateur est déjà pris.",
   "BackendErrorLabel.IDENTITY_PROVIDER_INVALID_METADATA": "Métadonnée XML invalide",
   "BackendErrorLabel.IDENTITY_PROVIDER_INVALID_SIGNATURE": "Signature invalide",
