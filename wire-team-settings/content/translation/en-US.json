@@ -4,6 +4,7 @@
   "BackendErrorLabel.BAD_REQUEST": "Invalid input",
   "BackendErrorLabel.BLACKLISTED_EMAIL": "This email address is not allowed.",
   "BackendErrorLabel.BLACKLISTED_PHONE": "This phone number is not allowed.",
+  "BackendErrorLabel.FORBIDDEN_LOGIN": "Unsufficient permission for managing teams",
   "BackendErrorLabel.HANDLE_EXISTS": "This username is already taken.",
   "BackendErrorLabel.IDENTITY_PROVIDER_INVALID_METADATA": "Invalid Metadata XML",
   "BackendErrorLabel.IDENTITY_PROVIDER_INVALID_SIGNATURE": "Invalid signature",
