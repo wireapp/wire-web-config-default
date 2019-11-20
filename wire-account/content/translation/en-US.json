@@ -10,7 +10,7 @@
     "resetLink": "reset your {{company}} password.",
     "resetText": "If you did not ask for this, you should <link>",
     "surveyLink": "share your thoughts about it.",
-    "surveyText": "Thanks for using {{company}}. If you’d like, you can <link> This will take no longer than a minute.",
+    "surveyText": "Thanks for using {{company}}. <br>If you’d like, you can <link> <br>This will take no longer than a minute.",
     "title": "Delete Account"
   },
   "forgot": {
