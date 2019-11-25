@@ -228,6 +228,8 @@
   "conversationDetailsActionLeave": "Покинуть группу",
   "conversationDetailsActionNotifications": "Уведомления",
   "conversationDetailsActionTimedMessages": "Временные сообщения",
+  "conversationDetailsGroupAdmin": "Group Admin",
+  "conversationDetailsGroupAdminInfo": "Group admins can add and remove people, change the group name and edit advanced group settings",
   "conversationDetailsGuestsOff": "Выключены",
   "conversationDetailsGuestsOn": "Вкл.",
   "conversationDetailsOptions": "Настройки",

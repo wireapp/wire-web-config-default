@@ -228,6 +228,8 @@
   "conversationDetailsActionLeave": "Напусти групу ...",
   "conversationDetailsActionNotifications": "Обавештења",
   "conversationDetailsActionTimedMessages": "Временске поруке",
+  "conversationDetailsGroupAdmin": "Group Admin",
+  "conversationDetailsGroupAdminInfo": "Group admins can add and remove people, change the group name and edit advanced group settings",
   "conversationDetailsGuestsOff": "Искључено",
   "conversationDetailsGuestsOn": "уклјучен",
   "conversationDetailsOptions": "Опције",
