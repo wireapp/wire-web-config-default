@@ -229,7 +229,7 @@
   "conversationDetailsActionNotifications": "通知",
   "conversationDetailsActionTimedMessages": "阅后即焚",
   "conversationDetailsGroupAdmin": "Group Admin",
-  "conversationDetailsGroupAdminInfo": "When this is on, admin can add or remove people and services, update group settings, and change participant’s role.",
+  "conversationDetailsGroupAdminInfo": "When this is on, the admin can add or remove people and services, update group settings, and change a participant’s role.",
   "conversationDetailsGuestsOff": "关闭",
   "conversationDetailsGuestsOn": "开启",
   "conversationDetailsOptions": "选项",
