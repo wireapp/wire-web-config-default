@@ -229,7 +229,7 @@
   "conversationDetailsActionNotifications": "Сповіщення",
   "conversationDetailsActionTimedMessages": "Тимчасові повідомлення",
   "conversationDetailsGroupAdmin": "Group Admin",
-  "conversationDetailsGroupAdminInfo": "When this is on, admin can add or remove people and services, update group settings, and change participant’s role.",
+  "conversationDetailsGroupAdminInfo": "When this is on, the admin can add or remove people and services, update group settings, and change a participant’s role.",
   "conversationDetailsGuestsOff": "Вимкнений",
   "conversationDetailsGuestsOn": "Увімк.",
   "conversationDetailsOptions": "Налаштування",
