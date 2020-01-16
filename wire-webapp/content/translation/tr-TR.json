@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Konuşma adını değiştir",
   "tooltipConversationEphemeral": "Süreli Mesaj",
   "tooltipConversationFile": "Dosya Ekle",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Bir mesaj yazın",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} müsait",
   "tooltipConversationInputPlaceholderAway": "{{user}} uzakta",

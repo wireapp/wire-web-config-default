@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Unterhaltung umbenennen",
   "tooltipConversationEphemeral": "Temporäre Nachricht",
   "tooltipConversationFile": "Datei senden",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Schreibe eine Nachricht",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} ist verfügbar",
   "tooltipConversationInputPlaceholderAway": "{{user}} ist abwesend",

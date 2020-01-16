@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "会話名を変更する",
   "tooltipConversationEphemeral": "タイマーメッセージ",
   "tooltipConversationFile": "ファイルを追加",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "メッセージを入力",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} は オンライン",
   "tooltipConversationInputPlaceholderAway": "{{user}} は 退席中",

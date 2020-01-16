@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Alterar nome da conversa",
   "tooltipConversationEphemeral": "Mensagem temporizada",
   "tooltipConversationFile": "Adicionar arquivo",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Digite uma mensagem",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} está disponível",
   "tooltipConversationInputPlaceholderAway": "{{user}} está ausente",

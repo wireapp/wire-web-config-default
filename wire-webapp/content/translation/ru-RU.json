@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Изменить название разговора",
   "tooltipConversationEphemeral": "Временное сообщение",
   "tooltipConversationFile": "Добавить файл",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Введите сообщение",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} доступен",
   "tooltipConversationInputPlaceholderAway": "{{user}} отошел",

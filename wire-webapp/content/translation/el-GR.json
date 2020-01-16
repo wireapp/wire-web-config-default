@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Αλλαγή ονόματος της συνομιλίας",
   "tooltipConversationEphemeral": "Προσωρινό μήνυμα",
   "tooltipConversationFile": "Προσθήκη αρχείου",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Πληκτρολογηση μηνυματος",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} is available",
   "tooltipConversationInputPlaceholderAway": "{{user}} is away",

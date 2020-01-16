@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "تغيير اسم المحادثة",
   "tooltipConversationEphemeral": "رسالة مؤقتة",
   "tooltipConversationFile": "إضافة ملف",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "اكتب الرسالة",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} متاح",
   "tooltipConversationInputPlaceholderAway": "{{user}} بعيد",

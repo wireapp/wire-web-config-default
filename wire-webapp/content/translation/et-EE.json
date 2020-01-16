@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Muuda vestluse nime",
   "tooltipConversationEphemeral": "Kustuv sõnum",
   "tooltipConversationFile": "Lisa fail",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Kirjuta sõnum",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} on saadaval",
   "tooltipConversationInputPlaceholderAway": "{{user}} on eemal",

@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Muuta keskustelun nimeä",
   "tooltipConversationEphemeral": "Ajoitettu viesti",
   "tooltipConversationFile": "Lisää tiedosto",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Kirjoita viesti",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} is available",
   "tooltipConversationInputPlaceholderAway": "{{user}} is away",

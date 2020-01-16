@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Změnit název konverzace",
   "tooltipConversationEphemeral": "Časované zprávy",
   "tooltipConversationFile": "Přidat soubor",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Napsat zprávu",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} is available",
   "tooltipConversationInputPlaceholderAway": "{{user}} is away",

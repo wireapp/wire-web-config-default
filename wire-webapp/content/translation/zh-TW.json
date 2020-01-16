@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "變更對話主題名稱",
   "tooltipConversationEphemeral": "限時訊息",
   "tooltipConversationFile": "新增檔案",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "請輸入一段訊息",
   "tooltipConversationInputPlaceholderAvailable": "{{user}}在線",
   "tooltipConversationInputPlaceholderAway": "{{user}}離開",

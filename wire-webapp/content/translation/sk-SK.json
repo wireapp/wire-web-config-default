@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Zmeniť názov rozhovoru",
   "tooltipConversationEphemeral": "Časovaná správa",
   "tooltipConversationFile": "Pridať súbor",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Napísať správu",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} is available",
   "tooltipConversationInputPlaceholderAway": "{{user}} is away",

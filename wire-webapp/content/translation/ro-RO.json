@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Schimbă numele conversației",
   "tooltipConversationEphemeral": "Mesaj temporizat",
   "tooltipConversationFile": "Adaugă fișier",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Scrie un mesaj",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} este disponibil",
   "tooltipConversationInputPlaceholderAway": "{{user}} este plecat",

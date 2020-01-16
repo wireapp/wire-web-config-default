@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Verander gesprek naam",
   "tooltipConversationEphemeral": "Tijdelijk bericht",
   "tooltipConversationFile": "Bestand toevoegen",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Typ een bericht",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} is beschikbaar",
   "tooltipConversationInputPlaceholderAway": "{{user}} is afwezig",

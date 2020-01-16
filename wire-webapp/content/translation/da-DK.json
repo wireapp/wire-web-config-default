@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Ændre samtalens navn",
   "tooltipConversationEphemeral": "Tidsbestemt besked",
   "tooltipConversationFile": "Tilføj fil",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Skriv en besked",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} er tilgængelig",
   "tooltipConversationInputPlaceholderAway": "{{user}} er ikke til stede",

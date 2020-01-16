@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Spremeni ime pogovora",
   "tooltipConversationEphemeral": "Časovno sporočilo",
   "tooltipConversationFile": "Dodaj zbirko",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Napiši sporočilo",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} is available",
   "tooltipConversationInputPlaceholderAway": "{{user}} is away",

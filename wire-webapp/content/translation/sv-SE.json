@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Ändra konversationsnamn",
   "tooltipConversationEphemeral": "Tidsinställt meddelande",
   "tooltipConversationFile": "Lägg till fil",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Skriv ett meddelande",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} är tillgänglig",
   "tooltipConversationInputPlaceholderAway": "{{user}} är borta",

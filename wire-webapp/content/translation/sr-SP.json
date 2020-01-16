@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Измени наслов разговора",
   "tooltipConversationEphemeral": "Темпирана порука",
   "tooltipConversationFile": "додај фајл",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "унесите поруку",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} је доступан",
   "tooltipConversationInputPlaceholderAway": "{{user}} је невидљив",

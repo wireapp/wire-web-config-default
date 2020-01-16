@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Pakeisti pokalbio pavadinimą",
   "tooltipConversationEphemeral": "Laikina žinutė",
   "tooltipConversationFile": "Pridėti failą",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Rašykite žinutę",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} yra prisijungęs",
   "tooltipConversationInputPlaceholderAway": "{{user}} yra pasišalinęs",

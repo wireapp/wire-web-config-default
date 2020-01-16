@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "更改会话名称",
   "tooltipConversationEphemeral": "阅后即焚",
   "tooltipConversationFile": "添加文件",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "输入一条消息",
   "tooltipConversationInputPlaceholderAvailable": "{{user}}在线",
   "tooltipConversationInputPlaceholderAway": "{{user}} 不在",

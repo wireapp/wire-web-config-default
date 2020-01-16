@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "تغییر نام گفتگو",
   "tooltipConversationEphemeral": "پیام موقت",
   "tooltipConversationFile": "اضافه کردن فایل",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "پیام خود را بنویسید",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} در دسترس است",
   "tooltipConversationInputPlaceholderAway": "{{user}} خارج از دسترس است",

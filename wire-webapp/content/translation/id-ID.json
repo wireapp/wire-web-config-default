@@ -904,6 +904,7 @@
   "tooltipConversationDetailsRename": "Ubah nama percakapan",
   "tooltipConversationEphemeral": "Pesan berjangka waktu",
   "tooltipConversationFile": "Tambah berkas",
+  "tooltipConversationInfo": "Conversation Info",
   "tooltipConversationInputPlaceholder": "Mengetik pesan",
   "tooltipConversationInputPlaceholderAvailable": "{{user}} tersedia",
   "tooltipConversationInputPlaceholderAway": "{{user}} sedang pergi",
