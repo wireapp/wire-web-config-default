@@ -5,7 +5,7 @@
   "BackendError.LABEL.BLACKLISTED_EMAIL": "Cette adresse e-mail n'est pas autorisée",
   "BackendError.LABEL.BLACKLISTED_PHONE": "Ce numéro de téléphone n'est pas autorisé",
   "BackendError.LABEL.CONVERSATION_CODE_NOT_FOUND": "Ce lien n’est plus valide. Demandez à la personne qui vous a invité comment vous connecter.",
-  "BackendError.LABEL.CONVERSATION_NOT_FOUND": "CONVERSATION_NOT_FOUND",
+  "BackendError.LABEL.CONVERSATION_NOT_FOUND": "La conversion n'a pas été trouvée",
   "BackendError.LABEL.CONVERSATION_TOO_MANY_MEMBERS": "Cette conversation a atteint la limite de participants",
   "BackendError.LABEL.EMAIL_EXISTS": "Cette adresse e-mail est déjà utilisée. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://support.wire.com/hc/articles/115004082129\">En savoir plus</a>",
   "BackendError.LABEL.HANDLE_EXISTS": "Ce nom d'utilisateur est déjà utilisé",
