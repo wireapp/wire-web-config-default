@@ -457,7 +457,7 @@
   "index.createPersonalAccount": "créer un compte",
   "index.createTeam": "créer une équipe",
   "index.enterprise": "Enterprise Login",
-  "index.login": "Se connecter",
+  "index.login": "Se connecter avec une adresse mail",
   "index.loginInfo": "Vous avez déjà un compte ?",
   "index.ssoLogin": "Log in with SSO",
   "index.welcome": "Welcome to {brandName}",
