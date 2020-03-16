@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "互換性のないバックアップ",
   "backupImportVersionErrorSecondary": "このバックアップデータは、新しいまたは古すぎる Wire で作成されたため、リストアできません。",
   "backupTryAgain": "再試行",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "承諾",
   "callChooseSharedScreen": "共有先を選択",
   "callDecline": "拒否",

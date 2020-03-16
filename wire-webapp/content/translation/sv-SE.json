@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Inkompatibel säkerhetskopia",
   "backupImportVersionErrorSecondary": "This backup was created by a newer or outdated version of {{brandName}} and cannot be restored here.",
   "backupTryAgain": "Försök igen",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Acceptera",
   "callChooseSharedScreen": "Välj en skärm att dela",
   "callDecline": "Avböj",

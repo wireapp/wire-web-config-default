@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Incompatible backup",
   "backupImportVersionErrorSecondary": "This backup was created by a newer or outdated version of {{brandName}} and cannot be restored here.",
   "backupTryAgain": "Zkusit znovu",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Přijmout",
   "callChooseSharedScreen": "Vybrat obrazovku ke sdílení",
   "callDecline": "Zamítnout",

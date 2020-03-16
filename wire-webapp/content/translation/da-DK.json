@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Ukompatibel sikkerhedskopi",
   "backupImportVersionErrorSecondary": "Denne sikkerhedskopi er lavet på en nyere eller uddateret version af Wire og kan ikke blive gendannet her.",
   "backupTryAgain": "Prøv Igen",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Besvar",
   "callChooseSharedScreen": "Vælg en skærm som du vil dele",
   "callDecline": "Afvis",

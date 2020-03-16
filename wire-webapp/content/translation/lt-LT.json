@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Nesuderinama atsarginė kopija",
   "backupImportVersionErrorSecondary": "Ši atsarginė kopija buvo sukurta naudojant arba naujesnę arba senesnę „Wire“ versiją, ir negali būti naudojama atkūrimui.",
   "backupTryAgain": "Bandykite dar kartą",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Priimti",
   "callChooseSharedScreen": "Pasirinkite ekraną, kurį bendrinti",
   "callDecline": "Atmesti",

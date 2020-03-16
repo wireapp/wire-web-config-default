@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Copia de seguridad incompatible",
   "backupImportVersionErrorSecondary": "Esta copia de seguridad fue creada por una versión antigua o más reciente de Wire y no se puede restaurar aquí.",
   "backupTryAgain": "Intentar de nuevo",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Aceptar",
   "callChooseSharedScreen": "Elige una pantalla para compartir",
   "callDecline": "Rechazar",

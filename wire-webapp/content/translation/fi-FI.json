@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Epäyhteensopiva varmuuskopio",
   "backupImportVersionErrorSecondary": "Varmuuskopio on luotu uudemmalla tai vanhentuneella {{brandName}}:llä ja sitä ei voida palauttaa.",
   "backupTryAgain": "Yritä uudelleen",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Hyväksy",
   "callChooseSharedScreen": "Valitse näyttö jonka haluat jakaa",
   "callDecline": "Kieltäydy",
