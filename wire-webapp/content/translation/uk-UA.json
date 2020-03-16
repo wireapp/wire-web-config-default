@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Несумісний файл резервної копії",
   "backupImportVersionErrorSecondary": "Цю резервну копію було створено новішою або застарілою версією Wire, тому її неможливо відновити.",
   "backupTryAgain": "Спробувати ще раз",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Прийняти",
   "callChooseSharedScreen": "Оберіть робочий стіл, скріншотами якого ви хочете поділитися",
   "callDecline": "Скасувати",

@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "A mentés nem kompatibilis",
   "backupImportVersionErrorSecondary": "Ez a mentés egy újabb vagy elavultabb Wire verzióval készült és nem lehet itt visszaállítani.",
   "backupTryAgain": "Próbáld újra",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Elfogadás",
   "callChooseSharedScreen": "Válaszd ki a megosztandó képernyőt",
   "callDecline": "Elutasítás",

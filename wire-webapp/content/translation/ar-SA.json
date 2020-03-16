@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "نسخة احتياطية غير متوافقة",
   "backupImportVersionErrorSecondary": "This backup was created by a newer or outdated version of {{brandName}} and cannot be restored here.",
   "backupTryAgain": "حاول مرة أخرى",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "قبول",
   "callChooseSharedScreen": "اختر شاشة للمشاركة",
   "callDecline": "رفض",

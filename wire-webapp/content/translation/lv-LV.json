@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Incompatible backup",
   "backupImportVersionErrorSecondary": "This backup was created by a newer or outdated version of {{brandName}} and cannot be restored here.",
   "backupTryAgain": "Try Again",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Pieņemt",
   "callChooseSharedScreen": "Izvēlieties ekrānu, ar kuru dalīties",
   "callDecline": "Noraidīt",

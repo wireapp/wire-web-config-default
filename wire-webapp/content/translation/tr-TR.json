@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Uyumsuz yedek",
   "backupImportVersionErrorSecondary": "Bu yedekleme, {{brandName}} adlı kullanıcının daha yeni veya eski bir sürümü tarafından oluşturuldu ve burada geri yüklenemez.",
   "backupTryAgain": "Tekrar Deneyin",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Kabul et",
   "callChooseSharedScreen": "Paylaşmak için bir ekran seçin",
   "callDecline": "Reddet",

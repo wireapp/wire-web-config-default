@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Ühildumatu varundus",
   "backupImportVersionErrorSecondary": "See varundus loodi uuema või aegunud Wire’i versiooni kaudu ja seda ei saa siin taastada.",
   "backupTryAgain": "Proovi uuesti",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Nõustu",
   "callChooseSharedScreen": "Vali ekraan, mida jagada",
   "callDecline": "Keeldu",

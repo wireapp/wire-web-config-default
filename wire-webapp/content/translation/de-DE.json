@@ -161,6 +161,8 @@
   "backupImportVersionErrorHeadline": "Inkompatibles Backup",
   "backupImportVersionErrorSecondary": "Diese Backup-Datei wurde von einer anderen Version von {{brandName}} erstellt und kann deshalb nicht wiederhergestellt werden.",
   "backupTryAgain": "Erneut versuchen",
+  "buttonActionError": "Answer has not been sent.",
+  "buttonActionErrorRetry": "Answer has not been sent. Retry.",
   "callAccept": "Annehmen",
   "callChooseSharedScreen": "Wähle einen Bildschirm aus",
   "callDecline": "Ablehnen",
