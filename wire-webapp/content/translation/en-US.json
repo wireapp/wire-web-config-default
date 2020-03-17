@@ -942,8 +942,6 @@
   "unsupported.subheadBrowser": "Download the latest version of <b style=\"font-weight: 600\">Google Chrome, Mozilla Firefox, Opera</b style=\"font-weight: 600\"> or <b style=\"font-weight: 600\">Microsoft Edge.</b>",
   "unsupported.subheadCookies": "Enable cookies to log in to {brandName}.",
   "unsupported.subheadIndexedDb": "{brandName} needs access to local storage to display your messages. Local storage is not available in private mode.",
-  "urlSupportArticles": "/hc/en-us/articles/",
-  "urlSupportRequests": "/hc/en-us/requests/",
   "urlSupportRoot": "/",
   "urlWebappRoot": "/",
   "urlWebsiteCreateTeam": "/create-team/",
