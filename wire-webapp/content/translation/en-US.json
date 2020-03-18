@@ -460,7 +460,7 @@
   "index.createPersonalAccount": "Chat privately with groups of friends and family",
   "index.createTeam": "Secure collaboration for businesses, institutions and professional organizations",
   "index.enterprise": "Enterprise Login",
-  "index.login": "Log in with email",
+  "index.login": "Log in",
   "index.loginInfo": "Already have an account?",
   "index.ssoLogin": "Log in with SSO",
   "index.welcome": "Welcome to {brandName}",

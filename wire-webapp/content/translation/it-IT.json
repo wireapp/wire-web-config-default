@@ -43,7 +43,7 @@
   "BackendError.LABEL.TOO_MANY_LOGINS": "Riprova più tardi",
   "BackendError.LABEL.TOO_MANY_MEMBERS": "Questa squadra ha raggiunto la sua dimensione massima",
   "BackendError.LABEL.UNAUTHORIZED": "Qualcosa è andato storto. Ricarica la pagina e riprova",
-  "BackendError.learnMore": "Learn more",
+  "BackendError.learnMore": "Ulteriori informazioni",
   "BackendError.unexpected": "Errore imprevisto",
   "BackendErrorLabel.CUSTOM_BACKEND_NOT_FOUND": "Questa email non può essere utilizzata per l'accesso aziendale. Inserisci il codice SSO per procedere.",
   "LOGOUT_REASON.ACCOUNT_REMOVED": "Sei stato disconnesso perché il tuo account è stato eliminato.",

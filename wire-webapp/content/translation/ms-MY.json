@@ -460,7 +460,7 @@
   "index.createPersonalAccount": "create an account",
   "index.createTeam": "create a team",
   "index.enterprise": "Enterprise Login",
-  "index.login": "Log in with email",
+  "index.login": "Log in",
   "index.loginInfo": "Already have an account?",
   "index.ssoLogin": "Log in with SSO",
   "index.welcome": "Welcome to {brandName}",
