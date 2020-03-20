@@ -52,7 +52,7 @@
   "ValidationError.FIELD.LH_SERVICE_URL.VALUE_MISSING": "Bitte eine gültige Service-URL eingeben",
   "ValidationError.FIELD.NAME.PATTERN_MISMATCH": "Gib einen Namen mit mindestens zwei Zeichen ein",
   "ValidationError.FIELD.NAME.VALUE_MISSING": "Gib einen Namen mit mindestens zwei Zeichen ein",
-  "ValidationError.FIELD.PASSWORD.PATTERN_MISMATCH": "Wähle ein Passwort mit mindestens {minPasswordLength} Zeichen",
+  "ValidationError.FIELD.PASSWORD.PATTERN_MISMATCH": "Bitte mindestens {minPasswordLength} Zeichen verwenden: mit einem Kleinbuchstaben, einem Großbuchstaben, einer Zahl und einem Sonderzeichen.",
   "ValidationError.FIELD.PASSWORD_LOGIN.PATTERN_MISMATCH": "Falsches Passwort. Bitte versuche es erneut.",
   "ValidationError.FIELD.SERVICE.PATTERN_MISMATCH": "Ungültiger Service-Code",
   "acceptNewsModal.confirm": "Annehmen",
