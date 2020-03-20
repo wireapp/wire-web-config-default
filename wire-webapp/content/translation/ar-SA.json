@@ -61,7 +61,7 @@
   "acceptNewsModal.confirmButton": "قبول",
   "acceptNewsModal.declineButton": "لا، شكرًا",
   "acceptNewsModal.headline": "Do you want to receive news and product updates from {brandName} via email?",
-  "acceptNewsModal.privacyDescription": "اطّلع على <b>سياستنا للخصوصية</b>.",
+  "acceptNewsModal.privacyDescription": "اطّلع على <strong/>سياستنا للخصوصية<strong>.",
   "acceptNewsModal.unsubscribeDescription": "You can unsubscribe at any time.",
   "accountForm.emailPersonalPlaceholder": "you@email.com",
   "accountForm.emailTeamPlaceholder": "you@yourcompany.com",
@@ -990,8 +990,8 @@
   "warningPermissionRequestMicrophone": "{{icon}} اسمح بالوصول إلى الميكروفون",
   "warningPermissionRequestNotification": "{{icon}} اسمح بالإشعارات",
   "warningPermissionRequestScreen": "{{icon}} اسمح بالوصول إلى الشاشة",
-  "wireLinux": "Wire للينكس",
-  "wireMacos": "Wire لـ macOS",
+  "wireLinux": "{{brandName}} للينكس",
+  "wireMacos": "{{brandName}} لـ macOS",
   "wireWindows": "واير لنظام التشغيل ويندوز Windows",
   "wire_for_web": "{{brandName}} للويب"
 }
