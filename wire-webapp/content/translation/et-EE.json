@@ -972,6 +972,7 @@
   "videoCallPaused": "Video pausil",
   "videoCallScreenShareNotSupported": "Sinu brauser ei toeta ekraanijagamist",
   "warningCallIssues": "See {{brandName}}’i versioon ei saa kõnes osaleda. Palun kasuta",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} helistab. Sinu brauser ei toeta kõnesid.",
   "warningCallUnsupportedOutgoing": "Sa ei saa helistada, kuna sinu brauser ei toeta kõnesid.",
   "warningCallUpgradeBrowser": "Helistamiseks palun uuenda Google Chrome’i.",

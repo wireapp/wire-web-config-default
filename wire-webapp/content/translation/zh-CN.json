@@ -972,6 +972,7 @@
   "videoCallPaused": "视频已暂停",
   "videoCallScreenShareNotSupported": "Screen sharing is not supported in this browser",
   "warningCallIssues": "此版本{{brandName}}无法使用呼叫功能。请使用",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} 正在呼叫您，但您的浏览器不支持通话。",
   "warningCallUnsupportedOutgoing": "你不能拨打电话因为浏览器并不支持。",
   "warningCallUpgradeBrowser": "若要呼叫， 请更新您的Chrome浏览器。",

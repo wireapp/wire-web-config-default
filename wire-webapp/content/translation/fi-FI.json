@@ -972,6 +972,7 @@
   "videoCallPaused": "Video paused",
   "videoCallScreenShareNotSupported": "Screen sharing is not supported in this browser",
   "warningCallIssues": "Tämä versio Wirestä ei pysty osallistumaan puheluun. Käytä",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} soittaa. Selaimesi ei tue puheluja.",
   "warningCallUnsupportedOutgoing": "Et voi soittaa puhelua koska selaimesi ei tue puheluja.",
   "warningCallUpgradeBrowser": "Soittaaksesi puhelun, päivitä Google Chrome.",

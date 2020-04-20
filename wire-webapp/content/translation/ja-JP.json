@@ -972,6 +972,7 @@
   "videoCallPaused": "ビデオ停止中",
   "videoCallScreenShareNotSupported": "このブラウザでは画面共有はサポートされません。",
   "warningCallIssues": "このバージョンの{{brandName}}は電話に参加できません。使用してください",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} が呼び出し中。お使いのブラウザは電話をサポートしていません。",
   "warningCallUnsupportedOutgoing": "ブラウザが電話をサポートしていないため電話できません",
   "warningCallUpgradeBrowser": "電話をするためには、Google Chromeをアップデートしてください",

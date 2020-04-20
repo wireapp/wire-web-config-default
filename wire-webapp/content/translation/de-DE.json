@@ -972,6 +972,7 @@
   "videoCallPaused": "Video wurde angehalten",
   "videoCallScreenShareNotSupported": "Bildschirmfreigabe wird von diesem Browser nicht unterstützt",
   "warningCallIssues": "Diese Version von {{brandName}} kann nicht an Anrufen teilnehmen. Nutze",
+  "warningCallQualityPoor": "Schlechte Verbindung",
   "warningCallUnsupportedIncoming": "{{user}} ruft an. Dein Browser unterstützt keine Anrufe.",
   "warningCallUnsupportedOutgoing": "Du kannst nicht anrufen, da dein Browser keine Anfrufe unterstützt.",
   "warningCallUpgradeBrowser": "Für Anrufe aktualisiere Google Chrome.",

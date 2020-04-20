@@ -972,6 +972,7 @@
   "videoCallPaused": "Video paused",
   "videoCallScreenShareNotSupported": "Screen sharing is not supported in this browser",
   "warningCallIssues": "Această versiune de {{brandName}} nu poate participa într-un apel. Te rugăm să folosești",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} te sună. Browserul tău nu suportă apelurile.",
   "warningCallUnsupportedOutgoing": "Nu poți suna pentru că browserul tău nu suportă apelurile.",
   "warningCallUpgradeBrowser": "Pentru a suna, te rugăm să actualizezi Google Chrome.",

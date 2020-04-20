@@ -972,6 +972,7 @@
   "videoCallPaused": "Video paused",
   "videoCallScreenShareNotSupported": "Screen sharing is not supported in this browser",
   "warningCallIssues": "Versi {{brandName}} ini tidak dapat berpartisipasi dalam panggilan. Silakan gunakan",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} sedang menelepon Browser Anda tidak mendukung panggilan.",
   "warningCallUnsupportedOutgoing": "Anda tidak dapat melakukan panggilan karena peramban Anda tidak mendukung panggilan.",
   "warningCallUpgradeBrowser": "Untuk memanggil, perbarui Google Chrome.",

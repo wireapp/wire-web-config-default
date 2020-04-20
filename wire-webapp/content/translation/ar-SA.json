@@ -972,6 +972,7 @@
   "videoCallPaused": "تم إيقاف الفيديو مؤقتاً",
   "videoCallScreenShareNotSupported": "مشاركه الشاشه غير مدعومه فى هذا المتصفح",
   "warningCallIssues": "نسخة واير هذه لا تستطيع المشاركة في المكالمة. من فضلك استخدم",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} يتصل. متصفحك لا يدعم المكالمات.",
   "warningCallUnsupportedOutgoing": "لا تستطيع إجراء مكالمة لأن متصفحك لا يدعم المكالمات.",
   "warningCallUpgradeBrowser": "To call, please update Google Chrome.",

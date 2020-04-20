@@ -972,6 +972,7 @@
   "videoCallPaused": "Videó szüneteltetve",
   "videoCallScreenShareNotSupported": "A képernyőmegosztást ez a böngésző nem támogatja",
   "warningCallIssues": "Ezzel a {{brandName}} verzióval nem tudsz részt venni a hívásban. Kérjük, használd ezt:",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} hív. Böngésződ nem támogatja a hanghívásokat.",
   "warningCallUnsupportedOutgoing": "Nem kezdeményezhetsz hívást, mert böngésződ nem támogatja a hanghívásokat.",
   "warningCallUpgradeBrowser": "Kérjük, hogy hanghívásokhoz frissítsd a Google Chrome-ot.",
