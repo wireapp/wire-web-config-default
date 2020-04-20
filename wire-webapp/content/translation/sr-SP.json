@@ -972,6 +972,7 @@
   "videoCallPaused": "Видео је паузиран",
   "videoCallScreenShareNotSupported": "Дељење екрана није подржано у овом прегледачу",
   "warningCallIssues": "Ова верзија Вајера не може да учествује у позиву. Користите",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} зове. Ваш прегледач не подржава позиве.",
   "warningCallUnsupportedOutgoing": "Не можете позивати јер ваш прегледач то не подржава.",
   "warningCallUpgradeBrowser": "За позиве, ажурирајте Гугл Хром.",

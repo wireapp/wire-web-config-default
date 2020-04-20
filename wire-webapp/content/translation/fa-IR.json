@@ -972,6 +972,7 @@
   "videoCallPaused": "Video paused",
   "videoCallScreenShareNotSupported": "Screen sharing is not supported in this browser",
   "warningCallIssues": "با این نسخه از وایر نمی‌توانید تماس بگیرید، لطفا استفاده کنید از ",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} در حال تماس است. مرورگر شما از تماس ها پشتیبانی نمی کند.",
   "warningCallUnsupportedOutgoing": "نمی‌تواند تماس بگیرید چون مرورگر شما از تماس‌ها پشتیبانی نمی‌کند.",
   "warningCallUpgradeBrowser": "برای تماس، لطفا گوگل کروم را به‌روزرسانی کنید.",

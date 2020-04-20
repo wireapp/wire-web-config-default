@@ -972,6 +972,7 @@
   "videoCallPaused": "Video duraklatıldı",
   "videoCallScreenShareNotSupported": "Ekran paylaşımı bu tarayıcıda desteklenmiyor",
   "warningCallIssues": "{{brandName}}’ın bu versiyonu aramalara katılamaz. Lütfen kullanın",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} arıyor. Ancak tarayıcınız sesli aramaları desteklemiyor.",
   "warningCallUnsupportedOutgoing": "Arama yapamazsınız çünkü tarayıcınız sesli aramaları desteklemiyor.",
   "warningCallUpgradeBrowser": "Arama yapmak için, Google Chrome’u güncelleyin.",

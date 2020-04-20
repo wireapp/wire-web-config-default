@@ -972,6 +972,7 @@
   "videoCallPaused": "Vaizdas pristabdytas",
   "videoCallScreenShareNotSupported": "Ši naršykle nepalaiko ekrano rodymo",
   "warningCallIssues": "Ši „{{brandName}}“ versija negali dalyvauti pokalbyje. Naudokite",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "Skambina {{user}}. Jūsų naršyklė nepalaiko skambučių.",
   "warningCallUnsupportedOutgoing": "Jūs negalite skambinti, nes jūsų naršyklė nepalaiko skambučių.",
   "warningCallUpgradeBrowser": "Norėdami skambinti, atnaujinkite „Google Chrome“.",

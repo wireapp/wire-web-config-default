@@ -972,6 +972,7 @@
   "videoCallPaused": "Video paused",
   "videoCallScreenShareNotSupported": "Screen sharing is not supported in this browser",
   "warningCallIssues": "Ta različica {{brandName}} ne more sodelovati v klicu. Prosimo uporabite",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} kliče. Vaš brskalnik ne podpira klicev.",
   "warningCallUnsupportedOutgoing": "Ne morete klicati, ker vaš brskalnik ne podpira klicev.",
   "warningCallUpgradeBrowser": "Če želite klicati, posodobite Google Chrome.",

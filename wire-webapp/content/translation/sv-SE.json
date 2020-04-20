@@ -972,6 +972,7 @@
   "videoCallPaused": "Klippet pausades",
   "videoCallScreenShareNotSupported": "Screen sharing is not supported in this browser",
   "warningCallIssues": "Denna version av {{brandName}} kan inte delta i samtal. Använd",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} ringer. Din webbläsare har inte stöd för samtal.",
   "warningCallUnsupportedOutgoing": "Du kan inte ringa eftersom din webbläsare inte stöder samtal.",
   "warningCallUpgradeBrowser": "För att ringa, uppdatera Google Chrome.",

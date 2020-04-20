@@ -972,6 +972,7 @@
   "videoCallPaused": "Video paused",
   "videoCallScreenShareNotSupported": "Screen sharing is not supported in this browser",
   "warningCallIssues": "Αυτή η έκδοση του {{brandName}} δεν μπορεί να μετέχει στην κλήση. Παρακαλούμε χρησιμοποιήστε",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} καλεί. Το πρόγραμμα περιήγησής σας δεν υποστηρίζει κλήσεις.",
   "warningCallUnsupportedOutgoing": "Δεν μπορείτε να καλέσετε, επειδή το πρόγραμμα περιήγησής σας δεν υποστηρίζει κλήσεις.",
   "warningCallUpgradeBrowser": "Για να καλέσετε, παρακαλούμε ενημερώστε το Google Chrome.",

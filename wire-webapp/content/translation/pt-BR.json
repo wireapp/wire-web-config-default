@@ -972,6 +972,7 @@
   "videoCallPaused": "Vídeo pausado",
   "videoCallScreenShareNotSupported": "Seu navegador não oferece suporte a compartilhamento de tela",
   "warningCallIssues": "Esta versão do {{brandName}} não pode participar na chamada. Por favor use",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} está chamando. Seu navegador não oferece suporte a chamadas.",
   "warningCallUnsupportedOutgoing": "Você não pode fazer chamadas porque seu navegador não oferece suporte a chamadas.",
   "warningCallUpgradeBrowser": "Para chamar, por favor atualize o navegador Google Chrome.",

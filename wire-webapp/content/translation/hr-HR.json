@@ -972,6 +972,7 @@
   "videoCallPaused": "Video pauziran",
   "videoCallScreenShareNotSupported": "Dijeljenje ekrana nije podržano u ovom pregledniku",
   "warningCallIssues": "Ova verzija {{brandName}} nema pozive. Molimo vas da koristite",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} zove. Vaš preglednik ne podržava pozive.",
   "warningCallUnsupportedOutgoing": "Poziv nije moguć jer vaš preglednik ne podržava pozive.",
   "warningCallUpgradeBrowser": "Da bi imali pozive, molimo ažurirajte Google Chrome.",

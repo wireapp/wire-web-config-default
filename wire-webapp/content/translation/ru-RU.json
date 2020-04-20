@@ -972,6 +972,7 @@
   "videoCallPaused": "Видео приостановлено",
   "videoCallScreenShareNotSupported": "Ваш браузер не поддерживает совместное использование экрана",
   "warningCallIssues": "Эта версия {{brandName}} не может участвовать в вызове. Пожалуйста, используйте",
+  "warningCallQualityPoor": "Poor connection",
   "warningCallUnsupportedIncoming": "{{user}} вызывает. Ваш браузер не поддерживает вызовы.",
   "warningCallUnsupportedOutgoing": "Вы не можете позвонить, так как ваш браузер не поддерживает вызовы.",
   "warningCallUpgradeBrowser": "Для совершения вызовов обновите Google Chrome.",
