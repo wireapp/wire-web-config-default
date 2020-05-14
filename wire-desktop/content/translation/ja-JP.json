@@ -82,6 +82,7 @@
   "unreadMessages": "未読メッセージ",
   "webviewErrorDescription": "We can't connect to the server at \"{url}\"",
   "webviewErrorDescriptionSub": "Let your server administrator know about this issue.",
+  "webviewErrorRetryAction": "Retry",
   "webviewErrorTitle": "This server can't be reached",
   "wrapperAddAccount": "アカウントを追加",
   "wrapperCreateTeam": "新しいチームを作成",

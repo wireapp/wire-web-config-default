@@ -82,6 +82,7 @@
   "unreadMessages": "Neprečítané správy",
   "webviewErrorDescription": "We can't connect to the server at \"{url}\"",
   "webviewErrorDescriptionSub": "Let your server administrator know about this issue.",
+  "webviewErrorRetryAction": "Retry",
   "webviewErrorTitle": "This server can't be reached",
   "wrapperAddAccount": "Pridať účet",
   "wrapperCreateTeam": "Vytvoriť tím",

@@ -82,6 +82,7 @@
   "unreadMessages": "رسالة غير مقروءة",
   "webviewErrorDescription": "We can't connect to the server at \"{url}\"",
   "webviewErrorDescriptionSub": "Let your server administrator know about this issue.",
+  "webviewErrorRetryAction": "Retry",
   "webviewErrorTitle": "This server can't be reached",
   "wrapperAddAccount": "إضافة حساب",
   "wrapperCreateTeam": "إنشاء فريق",
