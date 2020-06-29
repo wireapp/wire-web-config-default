@@ -29,6 +29,7 @@
   "menuCopy": "Kopeeri",
   "menuCut": "Lõika",
   "menuDelete": "Delete Content...",
+  "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Muuda",
   "menuFullScreen": "Täisekraan",
   "menuHelp": "Abi",

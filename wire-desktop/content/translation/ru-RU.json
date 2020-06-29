@@ -29,6 +29,7 @@
   "menuCopy": "Скопировать",
   "menuCut": "Вырезать",
   "menuDelete": "Удалить содержимое...",
+  "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Правка",
   "menuFullScreen": "Полноэкранный режим",
   "menuHelp": "Справка",

@@ -29,6 +29,7 @@
   "menuCopy": "Kopijuoti",
   "menuCut": "Iškirpti",
   "menuDelete": "Ištrinti turinį...",
+  "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Taisyti",
   "menuFullScreen": "Visas ekranas",
   "menuHelp": "Pagalba",

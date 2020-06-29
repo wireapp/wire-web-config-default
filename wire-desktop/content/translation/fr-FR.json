@@ -29,6 +29,7 @@
   "menuCopy": "Copier",
   "menuCut": "Couper",
   "menuDelete": "Supprimer...",
+  "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Édition",
   "menuFullScreen": "Plein écran",
   "menuHelp": "Aide",

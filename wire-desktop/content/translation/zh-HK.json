@@ -29,6 +29,7 @@
   "menuCopy": "複製",
   "menuCut": "剪下",
   "menuDelete": "刪除內容",
+  "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "編輯",
   "menuFullScreen": "全螢幕",
   "menuHelp": "幫助",
