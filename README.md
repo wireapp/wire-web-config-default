@@ -57,3 +57,4 @@ No license is granted to the Wire trademark and its associated logos, all of whi
 
 1. Commit the new property (mentioning the related product in the commit message) to "wire-web-config-default" (i.e. [Example](https://github.com/wireapp/wire-web-config-default/commit/3cf240f47989474e5061111aaad2260e9466cdc3))
 1. Run `yarn release:patch` to create a new version ([Example](https://github.com/wireapp/wire-web-config-default/commit/dffe84e856c4a8d1e5c911caaa41012c0e02834a)). Please note that `yarn release:prepatch` is reserved for company config repos only.
+1. Open a specific company config repo (i.e. [wire-web-config-wire](https://github.com/wireapp/wire-web-config-wire)) and run `yarn sync` inside of it. Most likely you will get a merge conflict because the "version" property in "package.json" has changed. Accept the "version" coming from the "upstream" / "theirs".
