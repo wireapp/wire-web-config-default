@@ -31,6 +31,7 @@
   "menuDelete": "Delete Content...",
   "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Rediger",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Fullskjerm",
   "menuHelp": "Hjelp",
   "menuHideApp": "Hide {brandName}",

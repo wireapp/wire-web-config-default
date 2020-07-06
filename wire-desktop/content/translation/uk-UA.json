@@ -31,6 +31,7 @@
   "menuDelete": "Видалити вміст...",
   "menuDownloadDebugLogs": "Завантажити журнал відлагодження",
   "menuEdit": "Редагування",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Повноекранний режим",
   "menuHelp": "Допомога",
   "menuHideApp": "Сховати {brandName}",

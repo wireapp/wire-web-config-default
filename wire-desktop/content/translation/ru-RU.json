@@ -31,6 +31,7 @@
   "menuDelete": "Удалить содержимое...",
   "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Правка",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Полноэкранный режим",
   "menuHelp": "Справка",
   "menuHideApp": "Скрыть {brandName}",

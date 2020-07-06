@@ -31,6 +31,7 @@
   "menuDelete": "Șterge...",
   "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Editează",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Ecran complet",
   "menuHelp": "Ajutor",
   "menuHideApp": "Hide {brandName}",

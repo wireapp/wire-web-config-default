@@ -31,6 +31,7 @@
   "menuDelete": "Ištrinti turinį...",
   "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Taisyti",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Visas ekranas",
   "menuHelp": "Pagalba",
   "menuHideApp": "Slėpti {brandName}",

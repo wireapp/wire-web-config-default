@@ -31,6 +31,7 @@
   "menuDelete": "Radera...",
   "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Redigera",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Fullskärm",
   "menuHelp": "Hjälp",
   "menuHideApp": "Hide {brandName}",

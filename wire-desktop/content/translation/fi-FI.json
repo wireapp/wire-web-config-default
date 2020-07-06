@@ -31,6 +31,7 @@
   "menuDelete": "Delete Content...",
   "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Muokkaa",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Koko näytön tila",
   "menuHelp": "Ohje",
   "menuHideApp": "Hide {brandName}",

@@ -31,6 +31,7 @@
   "menuDelete": "Konuşmayı Sil...",
   "menuDownloadDebugLogs": "Hata Ayıklayıcısı Geçmişini İndir",
   "menuEdit": "Düzenle",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Tam Ekran",
   "menuHelp": "Yardım",
   "menuHideApp": "{brandName}'ı gizle",

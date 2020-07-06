@@ -31,6 +31,7 @@
   "menuDelete": "Delete Content...",
   "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "Promjeni",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "Pogled Punog Zaslona",
   "menuHelp": "Pomoć",
   "menuHideApp": "Hide {brandName}",

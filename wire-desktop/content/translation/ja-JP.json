@@ -31,6 +31,7 @@
   "menuDelete": "削除...",
   "menuDownloadDebugLogs": "Download Debug Logs",
   "menuEdit": "編集",
+  "menuEnableSpellChecking": "Enable Spell Checking",
   "menuFullScreen": "フルスクリーン",
   "menuHelp": "ヘルプ",
   "menuHideApp": "{brandName} を隠す",
