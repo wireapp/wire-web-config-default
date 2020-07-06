@@ -20,8 +20,6 @@
     "translate:download": "yarn translate:download:wire-account && yarn translate:download:wire-desktop && yarn translate:download:wire-team-settings && yarn translate:download:wire-webapp && yarn translate:download:wire-pwa",
     "translate:download:wire-account": "node ./bin/translation-download.js -p wire-account",
     "translate:download:wire-desktop": "node ./bin/translation-download.js -p wire-desktop",
-    "translate:download:wire-team-settings": "node ./bin/translation-download.js -p wire-team-settings",
-    "translate:download:wire-webapp": "node ./bin/translation-download.js -p wire-webapp",
     "translate:download:wire-pwa": "exit 0"
   },
   "version": "0.24.86"
