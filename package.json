@@ -22,5 +22,5 @@
     "translate:download:wire-desktop": "node ./bin/translation-download.js -p wire-desktop",
     "translate:download:wire-pwa": "exit 0"
   },
-  "version": "0.25.0"
+  "version": "0.25.1"
 }
