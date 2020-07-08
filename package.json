@@ -1,8 +1,5 @@
 {
-  "dependencies": {
-    "adm-zip": "0.4.14",
-    "sort-json": "2.0.0"
-  },
+  "dependencies": {},
   "license": "GPL-3.0",
   "name": "wire-web-config-default",
   "private": true,
@@ -16,10 +13,7 @@
     "release:patch": "npm version patch",
     "release:prepatch": "npm version prepatch",
     "postversion": "git push --follow-tags",
-    "sync": "git checkout master && git pull && git fetch upstream && git merge upstream/master && git push origin --follow-tags",
-    "translate:download": "yarn translate:download:wire-account && yarn translate:download:wire-desktop && yarn translate:download:wire-team-settings && yarn translate:download:wire-webapp && yarn translate:download:wire-pwa",
-    "translate:download:wire-account": "node ./bin/translation-download.js -p wire-account",
-    "translate:download:wire-pwa": "exit 0"
+    "sync": "git checkout master && git pull && git fetch upstream && git merge upstream/master && git push origin --follow-tags"
   },
   "version": "0.25.2"
 }
