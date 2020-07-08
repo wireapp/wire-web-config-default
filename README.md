@@ -16,39 +16,28 @@ No license is granted to the Wire trademark and its associated logos, all of whi
 
 # Usage
 
-## Creating a company repository
+## Creating a sub repository
 
-1. `git clone https://github.com/wireapp/wire-web-config-<company>.git`
-2. `git remote add upstream https://github.com/wireapp/wire-web-config-default.git`
-3. `git checkout -b master`
-4. `git fetch upstream && git merge upstream/master && git push origin --follow-tags`
+1. Create a fork of `https://github.com/wireapp/wire-web-config-(default|wire).git` (Use `wire-web-config-wire` for production builds and `wire-web-config-default` for experimental builds)
+1. `git clone https://github.com/<github_organization>/wire-web-config-<company>.git`
+1. `git remote add upstream https://github.com/wireapp/wire-web-config-(default|wire).git`
+1. `git checkout -b master`
+1. `git fetch upstream && git merge upstream/master && git push origin`
 
-## Update company repository
+## Updating a sub repository
 
-1.  First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-default.git`
-2.  Run `yarn sync`
+1. First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-(default|wire).git`
+1. Run `yarn sync`
+1. Resolve possible conflicts
+1. Apply adjustments if necessary
+1. Once the changes are merged, create a new version by running `yarn release`
 
-## Setting up translations download (only on `wire-web-config-default`!)
+# Internal usage
 
-1. Get the API key from crowdin (e.g. https://crowdin.com/project/wire-webapp/settings#api)
-2. Create a directory named `keys` in the project's folder
-3. Create the file `crowdinConfig.js` in the project's `keys` subfolder (e.g. `./wire-webapp/keys/`):
+### Update main repository
 
-   ```js
-   const path = require('path');
-
-   module.exports = {
-     projectKey: '<API key here>',
-     projectIdentifier: 'wire-webapp',
-     destinationPath: path.resolve(__dirname, '../content/translation'),
-   };
+1. Create a branch, commit the changes, create a PR in the following format:
    ```
-### Download latest translations (only on `wire-web-config-default`!)
-
-1. Run the project's translation command (see [`package.json`](./package.json), e.g. `yarn translate:download:wire-webapp`)
-2. Check the changes, notify a colleague if there is anything out of the ordinary
-3. Create a branch, commit the changes, create a PR in the following format:
+   chore(<project name>): Update configuration values
    ```
-   chore(<project name>): Update translations for the new feature
-   ```
-4. Once the PR is merged, create a new version by running `yarn release:patch`
+1. Once the PR is merged, create a new version by running `yarn release:patch:staging`

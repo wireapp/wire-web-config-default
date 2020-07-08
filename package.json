@@ -11,15 +11,14 @@
     "url": "https://github.com/wireapp/wire-web-config-default.git"
   },
   "scripts": {
-    "release:major": "npm version major",
-    "release:minor": "npm version minor",
-    "release:patch": "npm version patch",
-    "release:prepatch": "npm version prepatch",
+    "release:patch:staging": "npm version prepatch --preid staging",
+    "release:major:staging": "npm version premajor --preid staging",
+    "release:minor:staging": "npm version preminor --preid staging",
+    "release": "npm version patch",
     "postversion": "git push --follow-tags",
-    "sync": "git checkout master && git pull && git fetch upstream && git merge upstream/master && git push origin --follow-tags",
-    "translate:download": "yarn translate:download:wire-account && yarn translate:download:wire-desktop && yarn translate:download:wire-team-settings && yarn translate:download:wire-webapp && yarn translate:download:wire-pwa",
+    "sync": "git checkout master && git pull && git fetch upstream && git merge upstream/master && git push origin",
+    "translate:download": "yarn translate:download:wire-account",
     "translate:download:wire-account": "node ./bin/translation-download.js -p wire-account",
-    "translate:download:wire-pwa": "exit 0"
   },
   "version": "0.25.2"
 }
