@@ -1,0 +1,7 @@
+{
+  "ElectronTeamID": "EDF3JCE8BC",
+  "NSCameraUsageDescription": "Allow WireInternal to access your camera so you can place video calls and send photos.",
+  "NSContactsUsageDescription": "Allow WireInternal to access your contacts to connect you with others. We anonymize all information and do not share it with anyone else.",
+  "NSMicrophoneUsageDescription": "Allow WireInternal to access your microphone so you can talk to people.",
+  "NSPrincipalClass": "AtomApplication"
+}
