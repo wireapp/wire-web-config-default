@@ -27,3 +27,36 @@ No license is granted to the Wire trademark and its associated logos, all of whi
 
 1.  First time only: `git remote add upstream https://github.com/wireapp/wire-web-config-default.git`
 2.  Run `yarn sync`
+
+## Setting up translations download (only on `wire-web-config-default`!)
+
+1. Get the API key from crowdin (e.g. https://crowdin.com/project/wire-webapp/settings#api)
+2. Create a directory named `keys` in the project's folder
+3. Create the file `crowdinConfig.js` in the project's `keys` subfolder (e.g. `./wire-webapp/keys/`):
+
+   ```js
+   const path = require('path');
+
+   module.exports = {
+     projectKey: '<API key here>',
+     projectIdentifier: 'wire-webapp',
+     destinationPath: path.resolve(__dirname, '../content/translation'),
+   };
+   ```
+### Download latest translations (only on `wire-web-config-default`!)
+
+1. Run the project's translation command (see [`package.json`](./package.json), e.g. `yarn translate:download:wire-webapp`)
+2. Check the changes, notify a colleague if there is anything out of the ordinary
+3. Create a branch, commit the changes, create a PR in the following format:
+   ```
+   chore(<project name>): Update translations for the new feature
+   ```
+4. Once the PR is merged, create a new version by running `yarn release:patch`
+
+### Workflow: Add a new property
+
+1. Commit the new property (mentioning the related product in the commit message) to "wire-web-config-default" ([example](https://github.com/wireapp/wire-web-config-default/commit/3cf240f47989474e5061111aaad2260e9466cdc3))
+1. Run `yarn release:patch` to create a new version ([example](https://github.com/wireapp/wire-web-config-default/commit/dffe84e856c4a8d1e5c911caaa41012c0e02834a)). Please note that `yarn release:prepatch` is reserved for company config repos only.
+1. Open a specific company config repo (i.e. [wire-web-config-wire](https://github.com/wireapp/wire-web-config-wire)) and run `yarn sync` inside of it. Most likely you will get a merge conflict because the "version" property in "package.json" has changed. Accept the "version" coming from the "upstream" / "theirs". Afterwards do a merge commit with message "chore: Sync" ([example](https://github.com/wireapp/wire-web-config-wire/commit/e574e9a36b97759c58f883b5eb8c4baef1c0b43b)).
+1. Create a new version, this time using `yarn release:prepatch`, from the updated company config repo ([example](https://github.com/wireapp/wire-web-config-wire/commit/3cd93838bce55eceac7f8dfcdc2a6c390f840b4c)).
+
