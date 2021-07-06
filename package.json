@@ -15,5 +15,5 @@
     "postversion": "git push --follow-tags",
     "sync": "git checkout master && git pull && git fetch upstream && git merge upstream/master && git push origin --follow-tags"
   },
-  "version": "0.28.17"
+  "version": "0.28.18"
 }
