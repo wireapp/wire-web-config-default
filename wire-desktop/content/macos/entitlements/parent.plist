@@ -16,5 +16,7 @@
     <true/>
     <key>com.apple.security.application-groups</key>
     <string>EDF3JCE8BC.com.wearezeta.zclient.mac</string>
+    <key>com.apple.security.cs.allow-unsigned-executable-memory</key>
+    <true/>
   </dict>
 </plist>
