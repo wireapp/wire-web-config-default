@@ -1,5 +1,4 @@
 {
-  "dependencies": {},
   "license": "GPL-3.0",
   "name": "wire-web-config-default",
   "private": true,
@@ -15,5 +14,6 @@
     "postversion": "git push --follow-tags",
     "sync": "git checkout master && git pull && git fetch upstream && git merge upstream/master && git push origin --follow-tags"
   },
-  "version": "0.34.3"
+  "version": "0.34.3",
+  "packageManager": "yarn@4.1.1"
 }
